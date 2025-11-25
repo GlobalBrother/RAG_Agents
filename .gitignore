@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+notebook_Internal.ipynb
+notebook_SoI_Facebook.ipynb
+notebook_SoI.ipynb
+vector_db/chroma.sqlite3
+data
