@@ -210,3 +210,12 @@ notebook_SoI_Facebook.ipynb
 notebook_SoI.ipynb
 vector_db/chroma.sqlite3
 data
+
+
+#To be removed later
+processed/chroma_langchain_db/chroma.sqlite3
+processed/chroma_langchain_db/213a33db-de47-4141-800c-519c1e391418/data_level0.bin
+processed/chroma_langchain_db/213a33db-de47-4141-800c-519c1e391418/header.bin
+processed/chroma_langchain_db/213a33db-de47-4141-800c-519c1e391418/index_metadata.pickle
+processed/chroma_langchain_db/213a33db-de47-4141-800c-519c1e391418/length.bin
+processed/chroma_langchain_db/213a33db-de47-4141-800c-519c1e391418/link_lists.bin
