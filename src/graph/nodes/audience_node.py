@@ -2,9 +2,9 @@
 from typing import Dict, Any
 
 from ..state import AdPipelineState
-from agents.audience_agent import AnglesAgent
+from agents.audience_agent import AudienceAgent
 
-audience_agent = AnglesAgent()
+audience_agent = AudienceAgent()
 
 def run(state: AdPipelineState) -> Dict[str, Any]:
     variables = state.get("client_data").get("angles") or {}

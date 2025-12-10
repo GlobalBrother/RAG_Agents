@@ -9,7 +9,7 @@ from graph.state import AdPipelineState
 from .nodes import audience_node
 from .nodes import ideas_node
 from .nodes import script_node
-
+from .nodes import hook_node
 
 # -----------------------------------------------------------
 # 1. Load Client Data From JSON
@@ -38,6 +38,7 @@ def build_graph():
     graph.add_node("angles", audience_node)
     graph.add_node("ideas", ideas_node)
     graph.add_node("script", script_node)
+    graph.add_node("hook", hook_node)
 
     graph.set_entry_point("load_client")
     graph.add_edge("load_client", "angles")

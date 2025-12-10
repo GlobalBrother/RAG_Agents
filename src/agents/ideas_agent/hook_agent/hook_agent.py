@@ -1,13 +1,13 @@
 from langchain_core.runnables import Runnable
 from langchain_openai import ChatOpenAI
 
-from .ideas_agent_prompt import ideas_agent_prompt
+from .hook_agent_prompt import hook_agent_prompt
 
 import json
 from dotenv import load_dotenv
 load_dotenv()
 
-class IdeaAgent(Runnable):
+class HookAgent(Runnable):
     """
     Research Agent implemented as a LangChain Runnable.
     Compatible with LangGraph as a graph node.
@@ -17,7 +17,7 @@ class IdeaAgent(Runnable):
         self.llm = ChatOpenAI(model=model, temperature=0.8)
 
         # LangChain chain: prompt -> llm
-        self.chain = ideas_agent_prompt | self.llm
+        self.chain = hook_agent_prompt | self.llm
 
     def invoke(self, state:dict):
         """
@@ -43,11 +43,11 @@ class IdeaAgent(Runnable):
 # ---------------------------------------------------------
 
 if __name__ == "__main__":
-    agent = IdeaAgent()
+    agent = HookAgent()
 
     with open("./src/datasets/products/FHA/JSON/forgotten_home_apothecary.json", "r", encoding="utf-8") as f:
         data = json.load(f)
-        variables = data.get("ideas")
+        variables = data.get("script")
 
     state = {
         "variables": variables,

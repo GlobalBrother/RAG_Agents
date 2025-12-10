@@ -1,13 +1,13 @@
 from langchain_core.runnables import Runnable
 from langchain_openai import ChatOpenAI
 
-from .angles_agent_prompt import angles_agent_prompt
+from .audience_agent_prompt import audience_agent_prompt
 
 import json
 from dotenv import load_dotenv
 load_dotenv()
 
-class AnglesAgent(Runnable):
+class AudienceAgent(Runnable):
     """
     Research Agent implemented as a LangChain Runnable.
     Compatible with LangGraph as a graph node.
@@ -17,7 +17,7 @@ class AnglesAgent(Runnable):
         self.llm = ChatOpenAI(model=model, temperature=0.8)
 
         # LangChain chain: prompt -> llm
-        self.chain = angles_agent_prompt | self.llm
+        self.chain = audience_agent_prompt | self.llm
 
     def invoke(self, state:dict):
         """
@@ -43,7 +43,7 @@ class AnglesAgent(Runnable):
 # ---------------------------------------------------------
 
 if __name__ == "__main__":
-    agent = AnglesAgent()
+    agent = AudienceAgent()
 
     with open("./src/datasets/products/FHA/JSON/forgotten_home_apothecary.json", "r", encoding="utf-8") as f:
         data = json.load(f)

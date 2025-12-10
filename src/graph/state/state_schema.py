@@ -12,8 +12,10 @@ class AdPipelineState(TypedDict, total=False):
     client_data: Dict[str, Any]
 
     # Ideation & creativity
-    ideas_output: Optional[str]
+    idea_output: Optional[str]
     audience_output: Optional[str]
+    script_output: Optional[str]
+    hook_output: Optional[str]
 
     # Final structured output
     final_output: Optional[Dict[str, Any]]

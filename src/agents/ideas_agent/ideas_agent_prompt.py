@@ -32,6 +32,7 @@ Task #2 Analyse and understand the following ad concepts which have worked
 for us really well in the past. Read each one multiple times until you have a
 deep and through understanding why this concept converted really well and
 what you could take and use to develop other successful ads.
+{concepts_past}
 Task #3 After having gone through these overarching concepts we've provided
 (and thoroughly reading our notes and examples on each one), please come up
 with 10 NEW, UNIQUE and HIGHLY COMPELLING AD CONCEPTS that you

@@ -7,7 +7,7 @@ import json
 from dotenv import load_dotenv
 load_dotenv()
 
-class ScriptsAgent(Runnable):
+class ScriptAgent(Runnable):
     """
     Research Agent implemented as a LangChain Runnable.
     Compatible with LangGraph as a graph node.
@@ -43,7 +43,7 @@ class ScriptsAgent(Runnable):
 # ---------------------------------------------------------
 
 if __name__ == "__main__":
-    agent = ScriptsAgent()
+    agent = ScriptAgent()
 
     with open("./src/datasets/products/FHA/JSON/forgotten_home_apothecary.json", "r", encoding="utf-8") as f:
         data = json.load(f)

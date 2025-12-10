@@ -1,6 +1,6 @@
 from langchain_core.prompts import ChatPromptTemplate
 
-angles_agent_prompt = ChatPromptTemplate.from_messages([
+audience_agent_prompt = ChatPromptTemplate.from_messages([
 (
 "system",
 """

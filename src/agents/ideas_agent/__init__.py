@@ -1,1 +1,1 @@
-from .ideas_agent import IdeasAgent
+from .ideas_agent import IdeaAgent
