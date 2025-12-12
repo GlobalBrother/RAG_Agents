@@ -1,0 +1,444 @@
+{
+  "script_zero": [
+    {
+      "hooks": [
+        {
+          "Concept": "1. When the Pharmacy Is 100 Miles Away",
+          "Hook_Type": "Fear + preparedness",
+          "Duration": 5,
+          "Hook_Line": "What’s your plan when the pharmacy is 60 miles away…or just empty again?",
+          "Visual_Prompt": "Wide shot of a lonely two-lane country road at dusk, then a quick cut to a CLOSED sign hanging on a small-town pharmacy door.",
+          "VO": "What’s your plan when the pharmacy is 60 miles away…or just empty again?",
+          "Audio / script": "What’s your plan when the pharmacy is 60 miles away…or just empty again?",
+          "Text Overlay": "When the pharmacy is 60 miles away…"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Inside a modest farmhouse kitchen. A tired rural mom, late 30s, in jeans and a soft flannel, stands by the counter with a sniffly kid on a stool. She glances at car keys, then at The Forgotten Home Apothecary on the counter.",
+          "VO": "If you’re a rural mom, you know that sinking feeling when a kid spikes a fever at night and urgent care is an hour away.",
+          "Audio / script": "If you’re a rural mom, you know that sinking feeling when a kid spikes a fever at night and urgent care is an hour away.",
+          "Text Overlay": "Rural moms: late-night fever, long drive?"
+        },
+        {
+          "Duration": 10,
+          "Visual_Prompt": "Close-up of her opening The Forgotten Home Apothecary. Camera shows the apothecary-style table of contents, finger sliding to Immunity, Respiratory, then to “Onion Socks” and “Jello Flu Shots.”",
+          "VO": "That’s why I keep The Forgotten Home Apothecary on my counter. Two hundred fifty remedies laid out on ‘shelves’ by ailment, so I can grab what I need in seconds.",
+          "Audio / script": "That’s why I keep The Forgotten Home Apothecary on my counter. Two hundred fifty remedies laid out on “shelves” by ailment, so I can grab what I need in seconds.",
+          "Text Overlay": "250 remedies • Organized by ailment"
+        },
+        {
+          "Duration": 12,
+          "Visual_Prompt": "Montage: she follows the Onion Socks page step by step on screen, then flips to Jello Flu Shots. Ingredients on the table: onion, vinegar, gelatin, honey. Quick over-the-shoulder shots showing ingredients, dosage box, side effects and interactions section.",
+          "VO": "Need a fever breaker? The Onion or Vinegar Socks. Fighting a bug? The Jello Flu Shots and Penicillin Soup. Every recipe has photos, ingredients, dosage, plus side effects and medication interactions so you’re not guessing.",
+          "Audio / script": "Need a fever breaker? The Onion or Vinegar Socks. Fighting a bug? The Jello Flu Shots and Penicillin Soup. Every recipe has photos, ingredients, dosage, plus side effects and medication interactions so you’re not guessing.",
+          "Text Overlay": "Fever, colds, coughs handled at home"
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "Build your first line of defense at home.",
+          "Visual_Prompt": "Cozy closing shot: child asleep on the couch, mom quietly sipping tea. The book open on the coffee table, pages marked with sticky tabs. Camera slowly pushes in on the cover.",
+          "VO": "For me, this book is my first line of defense, so the car keys can stay on the hook. If the link still works, copies are still in stock.",
+          "Audio / script": "For me, this book is my first line of defense, so the car keys can stay on the hook. If the link still works, copies are still in stock.",
+          "Text Overlay": "Tap below to get The Forgotten Home Apothecary"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "2. The Off-Grid Medicine Cabinet Challenge",
+          "Hook_Type": "Challenge + curiosity",
+          "Duration": 5,
+          "Hook_Line": "Could your homestead handle a week of problems without one pharmacy run?",
+          "Visual_Prompt": "Split screen of a small homestead: left side shows a pickup heading toward town, right side shows a kitchen with The Forgotten Home Apothecary on the counter.",
+          "VO": "Could your homestead handle a week of problems without one pharmacy run?",
+          "Audio / script": "Could your homestead handle a week of problems without one pharmacy run?",
+          "Text Overlay": "Homestead challenge: 0 pharmacy runs"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Homesteader mom, early 40s, in work jeans and boots, filming vlog-style in a rustic kitchen. Chickens visible out the window.",
+          "VO": "We tried something on our homestead this month: seven days of everyday issues solved with what we already had here.",
+          "Audio / script": "We tried something on our homestead this month: seven days of everyday issues solved with what we already had here.",
+          "Text Overlay": "7 days • No store trips"
+        },
+        {
+          "Duration": 10,
+          "Visual_Prompt": "Fast montage. Scene 1: Kid’s scraped knee; she flips to Skin/Wounds, taps a salve recipe. Scene 2: Husband coughing; she flips to Respiratory and Jello Flu Shots. Scene 3: Her rubbing stiff shoulders, flipping to Musculoskeletal and Amish Ibuprofen.",
+          "VO": "Scraped knee? I flipped to the Skin and Wounds shelf and made a salve. Cough hit? Straight to the Respiratory section for Jello Flu Shots. Sore after chores? Amish Ibuprofen from the Musculoskeletal pages.",
+          "Audio / script": "Scraped knee? I flipped to the Skin and Wounds shelf and made a salve. Cough hit? Straight to the Respiratory section for Jello Flu Shots. Sore after chores? Amish Ibuprofen from the Musculoskeletal pages.",
+          "Text Overlay": "Skin • Respiratory • Joints"
+        },
+        {
+          "Duration": 12,
+          "Visual_Prompt": "Close-ups of the book: apothecary-style table of contents, finger tracing jars on shelves. Then ingredient lists, step-by-step photos, dosage boxes, and a quick shot of the “Interactions with Medications” chapter.",
+          "VO": "The Forgotten Home Apothecary has 250 remedies organized like an old-time apothecary. Every entry shows ingredients, step-by-step photos, dosage, and even interactions with common meds, so I felt safe using them alongside prescriptions.",
+          "Audio / script": "The Forgotten Home Apothecary has 250 remedies organized like an old-time apothecary. Every entry shows ingredients, step-by-step photos, dosage, and even interactions with common meds, so I felt safe using them alongside prescriptions.",
+          "Text Overlay": "250 remedies • Clear safety notes"
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "Start your own off-grid medicine cabinet challenge.",
+          "Visual_Prompt": "Final shot of a simple wooden shelf lined with labeled jars: Penicillin Soup mix, Herbal Parasite Flush, Amish Amoxicillin. The book stands upright beside them.",
+          "VO": "By day seven, we hadn’t stepped into town once. If you want that kind of backup, grab your copy while it’s still available.",
+          "Audio / script": "By day seven, we hadn’t stepped into town once. If you want that kind of backup, grab your copy while it’s still available.",
+          "Text Overlay": "Tap to see inside The Forgotten Home Apothecary"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "3. The Book They Don’t Want in Every Cabin",
+          "Hook_Type": "Conspiracy + FOMO",
+          "Duration": 5,
+          "Hook_Line": "This is the kind of book Big Pharma hopes never lands on your homestead shelf.",
+          "Visual_Prompt": "Close-up of a rugged hand slapping The Forgotten Home Apothecary onto a worn wooden table beside a stack of pharmacy receipts.",
+          "VO": "This is the kind of book Big Pharma hopes never lands on your homestead shelf.",
+          "Audio / script": "This is the kind of book Big Pharma hopes never lands on your homestead shelf.",
+          "Text Overlay": "The book they don’t want on your land"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Middle-aged homesteader dad, mid-40s, in a faded work shirt and cap, sits at the table flipping through drugstore receipts. He looks up at the camera with a wry smile and drops them beside the book.",
+          "VO": "Every month I was ‘renting’ our medicine cabinet from the pharmacy—cough syrup, antacids, joint creams, sleep aids.",
+          "Audio / script": "Every month I was “renting” our medicine cabinet from the pharmacy—cough syrup, antacids, joint creams, sleep aids.",
+          "Text Overlay": "Renting your medicine cabinet?"
+        },
+        {
+          "Duration": 10,
+          "Visual_Prompt": "He opens The Forgotten Home Apothecary. Camera zooms to Amish Amoxicillin and Nature’s Amoxicillin pages, then to Amish Ibuprofen and Herbal Parasite Flush. Fingers tap titles and dosage boxes.",
+          "VO": "Then I found The Forgotten Home Apothecary. Two hundred fifty remedies laid out on shelves by problem. Amish Amoxicillin and Nature’s Amoxicillin for infections, Amish Ibuprofen for pain, Herbal Parasite Flush for gut issues.",
+          "Audio / script": "Then I found The Forgotten Home Apothecary. Two hundred fifty remedies laid out on shelves by problem. Amish Amoxicillin and Nature’s Amoxicillin for infections, Amish Ibuprofen for pain, Herbal Parasite Flush for gut issues.",
+          "Text Overlay": "Natural antibiotics, pain, parasites"
+        },
+        {
+          "Duration": 11,
+          "Visual_Prompt": "Close-ups of ingredient lists, step-by-step photos, and the “Side Effects and Allergies” and “Interactions with Medications” sections. Quick flash of the author photo and credentials.",
+          "VO": "Every recipe has clear ingredients, step-by-step photos, dosage, side effects, and medication interactions, all tested by herbalist Dr. Nicole Apelian after 30 years of real-world use.",
+          "Audio / script": "Every recipe has clear ingredients, step-by-step photos, dosage, side effects, and medication interactions, all tested by herbalist Dr. Nicole Apelian after 30 years of real-world use.",
+          "Text Overlay": "30+ years of practical herbal experience"
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "Own the recipes instead of renting the pills.",
+          "Visual_Prompt": "He stands and slides the book onto a prominent shelf in a simple cabin, between canning jars. Camera lingers on the cover as the receipts are tossed into the trash in the background.",
+          "VO": "Now one book quietly replaces half our medicine cabinet. If this video is still up, they haven’t pulled it yet. Grab your copy while you can.",
+          "Audio / script": "Now one book quietly replaces half our medicine cabinet. If this video is still up, they haven’t pulled it yet. Grab your copy while you can.",
+          "Text Overlay": "Tap below for The Forgotten Home Apothecary"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "4. From Garden to ‘Pharmacy’ in One Afternoon",
+          "Hook_Type": "Aspirational homesteader pride",
+          "Duration": 5,
+          "Hook_Line": "You already grow the herbs. This turns them into a working home pharmacy.",
+          "Visual_Prompt": "Barefoot woman in her 30s walking through a lush garden, clipping herbs into a basket at golden hour.",
+          "VO": "You already grow the herbs. This turns them into a working home pharmacy.",
+          "Audio / script": "You already grow the herbs. This turns them into a working home pharmacy.",
+          "Text Overlay": "From garden to apothecary"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "She steps into a farmhouse kitchen and lays fresh herbs beside The Forgotten Home Apothecary on a wooden table. Sunlight on the ornate apothecary cover.",
+          "VO": "On our homestead, the missing piece wasn’t plants. It was knowing exactly what to do with them for real problems.",
+          "Audio / script": "On our homestead, the missing piece wasn’t plants. It was knowing exactly what to do with them for real problems.",
+          "Text Overlay": "Not just pretty plants…real remedies"
+        },
+        {
+          "Duration": 10,
+          "Visual_Prompt": "Close-up of the apothecary-style table of contents. Finger glides over jars labeled Digestive, Immune, Musculoskeletal, Nervous, Skin/Wounds, then taps Herbal Parasite Flush and Penicillin Soup.",
+          "VO": "The Forgotten Home Apothecary lays out 250 remedies on shelves by body system and symptom. Herbal Parasite Flush for gut health, Penicillin Soup to boost winter immunity, joint oils, sleep blends, and more.",
+          "Audio / script": "The Forgotten Home Apothecary lays out 250 remedies on shelves by body system and symptom. Herbal Parasite Flush for gut health, Penicillin Soup to boost winter immunity, joint oils, sleep blends, and more.",
+          "Text Overlay": "250 step-by-step remedies"
+        },
+        {
+          "Duration": 11,
+          "Visual_Prompt": "Montage: she follows the Restorative Liver Tea page, pouring dried herbs into a jar; then mixes an Amish Ibuprofen salve; close-up of dosage and side effects boxes; quick shot of “Sourcing Quality Herbs and Ingredients” chapter.",
+          "VO": "Each remedy has photos, tools, ingredients, dosage, and side effects, plus sourcing tips so you can use what you grow or buy cheaply. No guessing, no Googling, just follow the page.",
+          "Audio / script": "Each remedy has photos, tools, ingredients, dosage, and side effects, plus sourcing tips so you can use what you grow or buy cheaply. No guessing, no Googling, just follow the page.",
+          "Text Overlay": "Clear photos • Dosage • Safety notes"
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "Turn your land into your family’s pharmacy.",
+          "Visual_Prompt": "Closing shot of a shelf lined with labeled jars: Liver Detox Tincture, Herbal Parasite Flush, Amish Amoxicillin, Penicillin Soup Mix. The book stands in the center.",
+          "VO": "In one afternoon, our garden became our medicine shelf. Tap below to bring The Forgotten Home Apothecary into your farmhouse.",
+          "Audio / script": "In one afternoon, our garden became our medicine shelf. Tap below to bring The Forgotten Home Apothecary into your farmhouse.",
+          "Text Overlay": "Tap to get The Forgotten Home Apothecary"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "5. The Day the Shelves Went Empty",
+          "Hook_Type": "Fear + storytelling",
+          "Duration": 5,
+          "Hook_Line": "Remember when the cough syrup aisle was wiped clean last winter?",
+          "Visual_Prompt": "News-style shots of empty drugstore shelves and “OUT OF STOCK” signs, with a soft glitch transition.",
+          "VO": "Remember when the cough syrup aisle was wiped clean last winter?",
+          "Audio / script": "Remember when the cough syrup aisle was wiped clean last winter?",
+          "Text Overlay": "When shelves went empty…"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Transition to a peaceful off-grid kitchen lit by lamplight. A homesteader couple in their 40s moves calmly while kids cough softly in the background.",
+          "VO": "On our place, we watched those clips and didn’t panic. We already had a backup plan sitting on the shelf.",
+          "Audio / script": "On our place, we watched those clips and didn’t panic. We already had a backup plan sitting on the shelf.",
+          "Text Overlay": "A backup plan on the shelf"
+        },
+        {
+          "Duration": 10,
+          "Visual_Prompt": "Hands pull The Forgotten Home Apothecary from a bookcase between canning jars. Camera zooms to Respiratory and Immune shelves, then the Jello Flu Shots and Penicillin Soup pages.",
+          "VO": "The Forgotten Home Apothecary holds 250 remedies, printed and ready. For colds and flu, we used Jello Flu Shots and Penicillin Soup from the Respiratory and Immune sections.",
+          "Audio / script": "The Forgotten Home Apothecary holds 250 remedies, printed and ready. For colds and flu, we used Jello Flu Shots and Penicillin Soup from the Respiratory and Immune sections.",
+          "Text Overlay": "Jello Flu Shots • Penicillin Soup"
+        },
+        {
+          "Duration": 11,
+          "Visual_Prompt": "Close-up of a warm herbal syrup being poured into a mason jar, then a child sipping from a spoon. Quick shots of the book’s dosage box, side effects, and “Interactions with Medications” pages lit by a lantern.",
+          "VO": "Every recipe has photos, exact dosage, side effects, and interactions with common meds, so we knew how to use them safely, even if the power went out and the internet was gone.",
+          "Audio / script": "Every recipe has photos, exact dosage, side effects, and interactions with common meds, so we knew how to use them safely, even if the power went out and the internet was gone.",
+          "Text Overlay": "No WiFi needed • Just the book"
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "Prepare for the next shortage now, not later.",
+          "Visual_Prompt": "Final shot: kids asleep under quilts, soft breathing. The book lies open on the table, then the cover is gently closed toward the camera.",
+          "VO": "Empty shelves will happen again. The question is whether you’re ready this time. Tap below to see if there’s still a copy available for your family.",
+          "Audio / script": "Empty shelves will happen again. The question is whether you’re ready this time. Tap below to see if there’s still a copy available for your family.",
+          "Text Overlay": "Tap to secure The Forgotten Home Apothecary"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "9. The Quietest ‘Prep’ You’ll Ever Make",
+          "Hook_Type": "Preparedness + FOMO",
+          "Duration": 5,
+          "Hook_Line": "You’ve stored food and water. Did you stock everyday medicine?",
+          "Visual_Prompt": "Quick montage of shelves with canned food, water barrels, and a generator. Then an empty spot on a bookshelf.",
+          "VO": "You’ve stored food and water. Did you stock everyday medicine?",
+          "Audio / script": "You’ve stored food and water. Did you stock everyday medicine?",
+          "Text Overlay": "Prepped for food…what about health?"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Off-grid couple in their 30s in a simple cabin. One partner slides The Forgotten Home Apothecary into that empty bookshelf spot next to survival manuals.",
+          "VO": "Most preppers plan for big disasters, but it’s the small stuff that wears you down: cuts, colds, gut bugs, sore joints, stress.",
+          "Audio / script": "Most preppers plan for big disasters, but it’s the small stuff that wears you down: cuts, colds, gut bugs, sore joints, stress.",
+          "Text Overlay": "The small stuff hits hardest"
+        },
+        {
+          "Duration": 10,
+          "Visual_Prompt": "Close-ups of the apothecary-style table of contents: Cardiovascular, Digestive, Detox, Respiratory, Nervous, Skin/Wounds. Finger taps Herbal Parasite Flush, Restorative Liver Tea, Amish Ibuprofen, Nature’s Amoxicillin.",
+          "VO": "The Forgotten Home Apothecary is a 320-page manual with 250 remedies sorted by body system. Parasite cleanses, liver detox, natural antibiotics, pain formulas, nervous system support, and more.",
+          "Audio / script": "The Forgotten Home Apothecary is a 320-page manual with 250 remedies sorted by body system. Parasite cleanses, liver detox, natural antibiotics, pain formulas, nervous system support, and more.",
+          "Text Overlay": "Parasites • Liver • Joints • Immunity"
+        },
+        {
+          "Duration": 11,
+          "Visual_Prompt": "Quick flips through pages showing ingredient lists, step-by-step photos, dosage boxes, and the “Interactions with Medications” and “Sourcing Quality Herbs” sections. No electronics in sight.",
+          "VO": "Every recipe shows ingredients, photos, and precise dosages, plus side effects and medication interactions. It runs on paper, herbs, and your hands—not on WiFi, power, or supply chains.",
+          "Audio / script": "Every recipe shows ingredients, photos, and precise dosages, plus side effects and medication interactions. It runs on paper, herbs, and your hands—not on WiFi, power, or supply chains.",
+          "Text Overlay": "No power. No signal. Still works."
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "Serious homesteaders prep their health too.",
+          "Visual_Prompt": "Final slow push-in on the book’s cover sitting between flashlights and canned goods. A hand gently rests on the cover, then pulls away.",
+          "VO": "Food, water, and tools are covered. Let this quietly cover your family’s health. If the link is still working, there’s still a copy waiting for your homestead.",
+          "Audio / script": "Food, water, and tools are covered. Let this quietly cover your family’s health. If the link is still working, there’s still a copy waiting for your homestead.",
+          "Text Overlay": "Tap to add this to your prep list // TOP PICK"
+        }
+      ]
+    }
+  ],
+  "script_other": {
+    "hooks": [
+      {
+        "Concept": "Familiar food secretly works as a powerful remedy",
+        "Hook_Type": "Pattern interrupt with everyday object",
+        "Duration": 5,
+        "Hook_Line": "This is a lemon. Think it’s just for tea? Think again.",
+        "Visual_Prompt": "Tight shot of a woman’s hand (Nicole) holding a bright lemon over a rustic wooden counter. Soft natural light. Text box in top left: 'The Forgotten Home Apothecary' with small subtext '250 natural remedies'.",
+        "VO": "This is a lemon. Think it’s just for tea? Think again.",
+        "Audio / script": "Soft, curious piano notes start. Nicole’s tone is calm, confident, slightly teasing.",
+        "Text Overlay": "This is a lemon."
+      }
+    ],
+    "script_scenes": [
+      {
+        "Duration": 8,
+        "Visual_Prompt": "Cut to Nicole Apelian, late 40s, in a cozy kitchen lined with jars of herbs and an old wooden apothecary cabinet. She sits at a farmhouse table, casual linen shirt, sleeves rolled, relaxed posture. Camera at eye level. Lower third appears: 'Nicole Apelian, Ph.D. – Herbalist & Survival Expert'.",
+        "VO": "I’m Dr. Nicole Apelian, and for 30 years I’ve turned simple plants into powerful home remedies.",
+        "Audio / script": "Same gentle piano continues underneath. Light kitchen ambience.",
+        "Text Overlay": "Nicole Apelian, Ph.D. • Herbalist & Survival Expert"
+      },
+      {
+        "Duration": 10,
+        "Visual_Prompt": "Montage: close-ups of labeled jars, tincture bottles, salves, and teas on shelves organized like an old apothecary. Hands measuring herbs, pouring oil, labeling a small amber bottle. Camera slowly pans across the “apothecary shelf” style layout that mirrors the book’s design.",
+        "VO": "Along the way, I discovered a handful of easy recipes that help people handle everyday issues at home… with ingredients they already own.",
+        "Audio / script": "Music warms slightly, adding a subtle beat. Soft glass clinks, pages turning.",
+        "Text Overlay": "Simple remedies for real life"
+      },
+      {
+        "Duration": 10,
+        "Visual_Prompt": "Back to Nicole at the table. The physical book 'The Forgotten Home Apothecary' is open, showing a full-color spread of remedies organized by body part. She taps a page, then points to a small bowl where she squeezes the same lemon into a mixture.",
+        "VO": "In this short video, I’ll show you one kitchen remedy nearly everyone overlooks… and the three drugstore items I quietly replaced in my own home.",
+        "Audio / script": "Music holds steady, slight rise on the word 'overlooks' to spark curiosity.",
+        "Text Overlay": "1 kitchen remedy you’re overlooking"
+      },
+      {
+        "Duration": 7,
+        "CTA_Line": "Watch More",
+        "Visual_Prompt": "Camera slowly zooms in on the book cover resting beside a small tray: lemon, honey jar, dried herbs, and a tiny finished remedy bottle. On-screen button-style text appears: 'Watch More'.",
+        "VO": "If you’d like a calmer, better stocked home, without relying on the pharmacy for every little thing… tap to see how this works.",
+        "Audio / script": "Music softens and then gently pauses right as the 'Watch More' text settles.",
+        "Text Overlay": "Build your own home apothecary • Watch More"
+      }
+    ]
+  },
+  "script_news": [
+    {
+      "hooks": [
+        {
+          "Concept": "The kitchen 'antibiotic foods' discovery",
+          "Hook_Type": "Research-based curiosity hook",
+          "Duration": 5,
+          "Hook_Line": "Let me show you the kitchen 'antibiotic foods' discovery scientists have been talking about lately.",
+          "Visual_Prompt": "Close-up of a wooden kitchen counter with garlic, ginger, turmeric, lemon, and honey laid out beside an old-fashioned remedy book.",
+          "VO": "Let me show you the kitchen 'antibiotic foods' discovery scientists have been talking about lately.",
+          "Audio / script": "Let me show you the kitchen 'antibiotic foods' discovery scientists have been talking about lately.",
+          "Text Overlay": "The kitchen 'antibiotic foods' discovery"
+        },
+        {
+          "Concept": "The clove-and-spice parasite secret",
+          "Hook_Type": "Research-based curiosity hook",
+          "Duration": 5,
+          "Hook_Line": "Only people who still use a mortar and pestle know the clove-and-spice parasite secret researchers are revisiting.",
+          "Visual_Prompt": "Older woman grinding whole cloves and herbs in a mortar, small glass dropper bottles in the background.",
+          "VO": "Only people who still use a mortar and pestle know the clove-and-spice parasite secret researchers are revisiting.",
+          "Audio / script": "Only people who still use a mortar and pestle know the clove-and-spice parasite secret researchers are revisiting.",
+          "Text Overlay": "The clove-and-spice parasite secret"
+        },
+        {
+          "Concept": "The 10-minute 'sleep tea' ritual",
+          "Hook_Type": "Lifestyle / research curiosity hook",
+          "Duration": 5,
+          "Hook_Line": "Let me show you the 10-minute 'sleep tea' ritual researchers just linked to better rest in older adults.",
+          "Visual_Prompt": "Cozy evening scene: woman in her 60s pouring herbal tea from a glass teapot, dim lamp, soft blanket.",
+          "VO": "Let me show you the 10-minute 'sleep tea' ritual researchers just linked to better rest in older adults.",
+          "Audio / script": "Let me show you the 10-minute 'sleep tea' ritual researchers just linked to better rest in older adults.",
+          "Text Overlay": "The 10-minute 'sleep tea' ritual"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 20,
+          "Visual_Prompt": "Scene 1 (Ad 1 – Kitchen 'antibiotic foods' discovery): Woman 60+ in a bright, homey kitchen, cardigan and glasses, leaning on the counter with a small cutting board of garlic, ginger, turmeric, lemon and honey. Natural daylight, soft instrumental background music.",
+          "VO": "Let me show you the kitchen 'antibiotic foods' discovery scientists have been talking about lately. Recent research points to everyday herbs and spices like garlic, ginger, and turmeric for immune support. Our grandmothers used them long before the lab coats did.",
+          "Audio / script": "Let me show you the kitchen 'antibiotic foods' discovery scientists have been talking about lately. Recent research points to everyday herbs and spices like garlic, ginger, and turmeric for immune support. Our grandmothers used them long before the lab coats did.",
+          "Text Overlay": "Everyday spices • Big immune support?"
+        },
+        {
+          "Duration": 25,
+          "Visual_Prompt": "Scene 2 (Ad 1): Close-up overhead shot as she chops garlic and ginger, then stirs them into a steaming mug. Cut to her opening The Forgotten Home Apothecary on a page showing \"Nature's Amoxicillin\" and Penicillin Soup.",
+          "VO": "In The Forgotten Home Apothecary, you’ll find step-by-step recipes that use these same foods in simple, comforting remedies—like a warming winter soup and a tangy \"kitchen shot\" many people use at the first sign of feeling off.",
+          "Audio / script": "In The Forgotten Home Apothecary, you’ll find step-by-step recipes that use these same foods in simple, comforting remedies—like a warming winter soup and a tangy \"kitchen shot\" many people use at the first sign of feeling off.",
+          "Text Overlay": "Turn pantry staples into simple home remedies"
+        },
+        {
+          "Duration": 20,
+          "Visual_Prompt": "Scene 3 (Ad 1): Camera pans along a small \"home apothecary\" shelf: labeled jars of dried herbs, a bottle for Nature’s Amoxicillin, some lemons and honey in a bowl.",
+          "VO": "You don’t have to guess. Photos, exact amounts, and plain-language tips show you how to stock a little immune-support shelf right at home—with ingredients you probably already own.",
+          "Audio / script": "You don’t have to guess. Photos, exact amounts, and plain-language tips show you how to stock a little immune-support shelf right at home—with ingredients you probably already own.",
+          "Text Overlay": "A tiny immune-support shelf in your own kitchen"
+        },
+        {
+          "Duration": 15,
+          "CTA_Line": "Tap to peek inside The Forgotten Home Apothecary and see the full kitchen remedy pages.",
+          "Visual_Prompt": "Scene 4 (Ad 1 – CTA): Close-up of the book cover on the counter, her hand turning the pages; final freeze on a spread with colorful remedies. Subtle zoom-in on a \"Nature's Amoxicillin\" headline.",
+          "VO": "If you want to see exactly how these kitchen remedies come together, tap to peek inside The Forgotten Home Apothecary.",
+          "Audio / script": "If you want to see exactly how these kitchen remedies come together, tap to peek inside The Forgotten Home Apothecary.",
+          "Text Overlay": "See the step-by-step kitchen remedies →"
+        },
+        {
+          "Duration": 20,
+          "Visual_Prompt": "Scene 1 (Ad 2 – Clove-and-spice parasite secret): Woman in her late 50s at a wooden table, mortar and pestle in front of her, whole cloves, black walnut hulls, and a small notebook. Warm, rustic lighting, soft ambient music.",
+          "VO": "Only people who still use a mortar and pestle know the clove-and-spice parasite secret researchers are revisiting. New lab studies are looking at cloves and their main compound for how they interact with certain parasites.",
+          "Audio / script": "Only people who still use a mortar and pestle know the clove-and-spice parasite secret researchers are revisiting. New lab studies are looking at cloves and their main compound for how they interact with certain parasites.",
+          "Text Overlay": "The clove-and-spice parasite secret"
+        },
+        {
+          "Duration": 25,
+          "Visual_Prompt": "Scene 2 (Ad 2): Close-up as she gently grinds cloves, then drips a dark tincture into a small glass of water. Cut to an open spread of The Forgotten Home Apothecary showing \"Herbal Parasite Flush\" and \"Anti-Parasitic Black Walnut Drops.\"",
+          "VO": "Herbalists have leaned on clove, black walnut, and other spices for gut comfort for generations. In The Forgotten Home Apothecary, they’re turned into clear, at-home recipes with simple portions and thoughtful cautions.",
+          "Audio / script": "Herbalists have leaned on clove, black walnut, and other spices for gut comfort for generations. In The Forgotten Home Apothecary, they’re turned into clear, at-home recipes with simple portions and thoughtful cautions.",
+          "Text Overlay": "Gentler, herb-based gut support formulas"
+        },
+        {
+          "Duration": 20,
+          "Visual_Prompt": "Scene 3 (Ad 2): Camera tracks along a labeled tray: \"Herbal Parasite Flush,\" \"Black Walnut Drops,\" a jar of ground clove, a small calendar and pen beside them.",
+          "VO": "You’ll see how people time these formulas, how to mix them, and how they fit into a calm, short-term cleanse—without guesswork or harsh mystery protocols.",
+          "Audio / script": "You’ll see how people time these formulas, how to mix them, and how they fit into a calm, short-term cleanse—without guesswork or harsh mystery protocols.",
+          "Text Overlay": "Step-by-step, not guesswork"
+        },
+        {
+          "Duration": 15,
+          "CTA_Line": "Tap to open The Forgotten Home Apothecary and see the exact parasite-support pages.",
+          "Visual_Prompt": "Scene 4 (Ad 2 – CTA): Over-the-shoulder shot of her slowly turning through the \"Digestive & Detox\" section of the book, pausing on the parasite support recipes. Gentle zoom on illustrated bottles and directions.",
+          "VO": "Curious how these clove-and-herb formulas actually look on the page? Tap to open The Forgotten Home Apothecary and explore the parasite-support section.",
+          "Audio / script": "Curious how these clove-and-herb formulas actually look on the page? Tap to open The Forgotten Home Apothecary and explore the parasite-support section.",
+          "Text Overlay": "Peek inside the parasite-support formulas →"
+        },
+        {
+          "Duration": 20,
+          "Visual_Prompt": "Scene 1 (Ad 3 – 10-minute 'sleep tea' ritual): Evening living room, woman around 65 in soft loungewear, low lamp, rain sounds faintly in the background. She sets a mug and a small jar of dried herbs on a side table.",
+          "VO": "Let me show you the 10-minute 'sleep tea' ritual researchers just linked to better rest in older adults. A recent study found that a simple herbal tea in the evening was tied to calmer nights and lower stress.",
+          "Audio / script": "Let me show you the 10-minute 'sleep tea' ritual researchers just linked to better rest in older adults. A recent study found that a simple herbal tea in the evening was tied to calmer nights and lower stress.",
+          "Text Overlay": "The 10-minute 'sleep tea' ritual"
+        },
+        {
+          "Duration": 25,
+          "Visual_Prompt": "Scene 2 (Ad 3): Close-up as she scoops herbs—like chamomile, lemon balm, maybe hops—from labeled jars into a teapot. She opens The Forgotten Home Apothecary to a \"Nervous System & Sleep\" spread showing calming teas and tinctures.",
+          "VO": "In The Forgotten Home Apothecary, you’ll find gentle bedtime blends built from classic herbs many people use for relaxation—plus exact ratios, steeping times, and ideas for a whole little 'sleep shelf' in your home apothecary.",
+          "Audio / script": "In The Forgotten Home Apothecary, you’ll find gentle bedtime blends built from classic herbs many people use for relaxation—plus exact ratios, steeping times, and ideas for a whole little 'sleep shelf' in your home apothecary.",
+          "Text Overlay": "Build your own 'sleep & nerves' shelf"
+        },
+        {
+          "Duration": 20,
+          "Visual_Prompt": "Scene 3 (Ad 3): She sits, wraps a blanket around her legs, and brings the steaming mug up to her face. Camera soft-focuses between her relaxed expression and the open book on the coffee table.",
+          "VO": "No apps, no gadgets—just a small nightly ritual you can mix yourself, with clear guidance so you’re not guessing about which herbs or how much to use.",
+          "Audio / script": "No apps, no gadgets—just a small nightly ritual you can mix yourself, with clear guidance so you’re not guessing about which herbs or how much to use.",
+          "Text Overlay": "A calm ritual you can actually follow"
+        },
+        {
+          "Duration": 15,
+          "CTA_Line": "Tap to flip through The Forgotten Home Apothecary and see the evening tea recipes.",
+          "Visual_Prompt": "Scene 4 (Ad 3 – CTA): Top-down shot of the book open to the \"Nervous System & Sleep\" section, her hand tracing the tea recipe and dosage notes. Gentle zoom-in on the recipe title.",
+          "VO": "Want to see the exact nighttime tea blends and directions? Tap to flip through The Forgotten Home Apothecary.",
+          "Audio / script": "Want to see the exact nighttime tea blends and directions? Tap to flip through The Forgotten Home Apothecary.",
+          "Text Overlay": "See the nighttime tea pages →"
+        }
+      ]
+    }
+  ]
+}

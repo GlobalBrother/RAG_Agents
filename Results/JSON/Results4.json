@@ -1,0 +1,464 @@
+{
+  "script_zero": [
+    {
+      "hooks": [
+        {
+          "Concept": "The 2 A.M. Mom’s Secret Drawer",
+          "Hook_Type": "Emotional + Pain Point + Curiosity",
+          "Duration": 5,
+          "Hook_Line": "It’s 2 A.M. again… fever, cough, pharmacy closed. I stopped panicking when I added this to my kitchen drawer.",
+          "Visual_Prompt": "Dim hallway, mom in oversized t‑shirt, baby coughing faintly in background. She opens a low kitchen drawer; The Forgotten Home Apothecary cover is visible under a small nightlight glow.",
+          "VO": "It’s 2 A.M. again… fever, cough, the pharmacy’s closed. I stopped panicking when I added this to my kitchen drawer.",
+          "Audio / script": "It’s 2 A.M. again… fever, cough, the pharmacy’s closed. I stopped panicking when I added this to my kitchen drawer.",
+          "Text Overlay": "Your 2 A.M. drawer for kid fevers + coughs"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 6,
+          "Visual_Prompt": "Over‑shoulder shot as mom slides open drawer. She pulls out The Forgotten Home Apothecary, cover clear: ornate wooden cabinet, “HOME APOTHECARY – 250 Powerful Remedies at Your Fingertips – Nicole Apelian, Ph.D.” Soft hum of fridge, subtle lullaby‑style background music.",
+          "VO": "This is The Forgotten Home Apothecary. A 320‑page, full‑color remedies book with 250 natural recipes laid out like an old apothecary shelf.",
+          "Audio / script": "This is The Forgotten Home Apothecary. A 320‑page, full‑color remedies book with 250 natural recipes laid out like an old apothecary shelf.",
+          "Text Overlay": "320 pages • 250 remedies • Kid‑friendly layouts"
+        },
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Close‑up of the apothecary‑style table of contents. Mom’s index finger scans “Respiratory / Fever & Colds”, taps a jar icon labeled “Onion Socks”, then “Jello Flu Shots” and “Penicillin Soup”. Each tap gets a tiny zoom punch‑in.",
+          "VO": "When one of my kids spikes a fever, I just go to the Fever & Colds shelf, pick the remedy off the page, and flip straight to it.",
+          "Audio / script": "When one of my kids spikes a fever, I just go to the Fever & Colds shelf, pick the remedy off the page, and flip straight to it.",
+          "Text Overlay": "Organized by symptom • Like picking jars off a shelf"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Page close‑up: ‘Onion Socks / Vinegar Socks’ on left, ‘Jello Flu Shots’ on right. Camera slowly pans down: Ingredients list, color photos, clear step‑by‑step Instructions, Dosage for kids by age, then ‘Side Effects & Allergies’ and ‘Interactions with Medications’. Mom circles kids’ dosage with a pen while kettle steams in background.",
+          "VO": "Every remedy shows ingredients, photos, step‑by‑step instructions, exact kids’ dosages, plus side effects and interaction notes, so I’m not guessing at 2 A.M.",
+          "Audio / script": "Every remedy shows ingredients, photos, step‑by‑step instructions, exact kids’ dosages, plus side effects and interaction notes, so I’m not guessing at 2 A.M.",
+          "Text Overlay": "No guessing • Dosages • Safety & interaction notes"
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "Put an herbal “nurse” in your kitchen.",
+          "Visual_Prompt": "Soft shot: mom sets a small mug of warm Jello Flu Shot on nightstand, strokes child’s hair. Cut to book resting by baby monitor and jar of honey. She points down, as if at a link, while closing the cover toward camera.",
+          "VO": "If you’re done relying on midnight Google searches for every sniffle, add this to your 2 A.M. drawer. Tap below to see inside The Forgotten Home Apothecary.",
+          "Audio / script": "If you’re done relying on midnight Google searches for every sniffle, add this to your 2 A.M. drawer. Tap below to see inside The Forgotten Home Apothecary.",
+          "Text Overlay": "Tap to peek inside • Make your own kid‑safe remedies at home"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "What My Pediatrician Actually Said About This Book",
+          "Hook_Type": "Counterintuitive + Credibility + Curiosity",
+          "Duration": 5,
+          "Hook_Line": "I was nervous to bring this herbal remedies book to our pediatrician… her reaction surprised me.",
+          "Visual_Prompt": "Busy pediatric waiting room. Mom in leggings and cardigan, toddler on her lap. She holds The Forgotten Home Apothecary on her knee, thumb in the pages. Text overlay above her head.",
+          "VO": "I was nervous to bring this herbal remedies book to our pediatrician… her reaction surprised me.",
+          "Audio / script": "I was nervous to bring this herbal remedies book to our pediatrician… her reaction surprised me.",
+          "Text Overlay": "“My pediatrician’s reaction shocked me…”"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Close‑up: book open on mom’s lap. Camera slowly zooms on the apothecary‑style table of contents. Finger slides over jars labeled “Cough & Congestion”, “Digestive Upsets”, “Rashes & Itching”. She taps “Jello Flu Shots” and “Soothing Bedtime Cough Syrup”.",
+          "VO": "She flipped through it and said, “I wish more parents came in this prepared. Just check the interaction notes with her meds.”",
+          "Audio / script": "She flipped through it and said, “I wish more parents came in this prepared. Just check the interaction notes with her meds.”",
+          "Text Overlay": "“I wish more parents came in this prepared.” – our pediatrician"
+        },
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Cut to a crisp top‑down shot at kitchen table. The book is open to ‘Amish Amoxicillin’ and ‘Jello Flu Shots’. Camera pans: Ingredients list, full‑color photos, numbered Instructions, then bold sections: Dosage, Side Effects & Allergies, Interactions with Medications.",
+          "VO": "The Forgotten Home Apothecary isn’t vague. Every remedy lists ingredients, step‑by‑step directions, dosages, side effects, and interaction notes.",
+          "Audio / script": "The Forgotten Home Apothecary isn’t vague. Every remedy lists ingredients, step‑by‑step directions, dosages, side effects, and interaction notes.",
+          "Text Overlay": "Clear recipes • Real dosages • Interaction notes"
+        },
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Quick flips through sections: “Respiratory Support”, “Digestive Support”, “Skin & Wounds”, “Personal Care”. Then a tight shot of the ‘Interactions with Common Medications’ chapter with a long, organized list. Mom’s finger traces a common drug name.",
+          "VO": "There’s even an entire chapter on how these remedies can interact with common meds, so I can have an informed conversation with our doctor.",
+          "Audio / script": "There’s even an entire chapter on how these remedies can interact with common meds, so I can have an informed conversation with our doctor.",
+          "Text Overlay": "Talk to your doctor with real info in hand"
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "See why some doctors are glad parents bring this in.",
+          "Visual_Prompt": "Mom drops the book into her diaper‑bag next to a toy stethoscope and snack cup. She looks at camera, smiles, then points down to an implied link. Gentle acoustic background music.",
+          "VO": "If you want something solid to lean on between visits, tap below and flip through The Forgotten Home Apothecary for yourself.",
+          "Audio / script": "If you want something solid to lean on between visits, tap below and flip through The Forgotten Home Apothecary for yourself.",
+          "Text Overlay": "Tap to look inside • The Forgotten Home Apothecary"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "When the Pharmacy Shelves Went Empty…",
+          "Hook_Type": "Fear-Based + Prepping + Mother-Protection Instinct",
+          "Duration": 5,
+          "Hook_Line": "Remember when children’s cold meds vanished overnight? That’s when I built my own “backup pharmacy” at home.",
+          "Visual_Prompt": "News‑style b‑roll of empty pharmacy aisle, “OUT OF STOCK” tags on kids’ cough medicine. Cut quickly to mom closing her pantry with a calm face.",
+          "VO": "Remember when children’s cold meds vanished overnight? That’s when I built my own backup pharmacy at home.",
+          "Audio / script": "Remember when children’s cold meds vanished overnight? That’s when I built my own backup pharmacy at home.",
+          "Text Overlay": "When shelves go empty, what’s your Plan B?"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 6,
+          "Visual_Prompt": "Kitchen island. The Forgotten Home Apothecary stands upright. Camera slowly tilts from the ornate apothecary cover down to mom’s hand opening it. Gentle, steady background music, faint ticking clock.",
+          "VO": "My favorite piece is this book: The Forgotten Home Apothecary. A 320‑page, physical guide with 250 natural remedies.",
+          "Audio / script": "My favorite piece is this book: The Forgotten Home Apothecary. A 320‑page, physical guide with 250 natural remedies.",
+          "Text Overlay": "320‑page physical book • 250 natural remedies"
+        },
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Close‑up on the apothecary‑style table of contents. Her finger moves along “Respiratory Support”, taps “Penicillin Soup”, “Jello Flu Shots”, then slides to “Onion Socks” in the Fever section. Small zoom with each tap.",
+          "VO": "The table of contents looks like old apothecary shelves. Cough, fever, tummy bugs… you just pick the remedy off the page and flip to it.",
+          "Audio / script": "The table of contents looks like old apothecary shelves. Cough, fever, tummy bugs… you just pick the remedy off the page and flip to it.",
+          "Text Overlay": "Organized by symptom • Grab what you need fast"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Side‑by‑side shots: on left, she flips to ‘Jello Flu Shots’ with Ingredients, Instructions, Dosage, Side Effects & Allergies. On right, she sets a tray of colorful Jello cubes on the counter, kids’ hands grab one.",
+          "VO": "Most recipes use pantry items or inexpensive herbs. Here’s Jello Flu Shots, Penicillin Soup, Onion Socks to help with fever. All step‑by‑step with kids’ dosages.",
+          "Audio / script": "Most recipes use pantry items or inexpensive herbs. Here’s Jello Flu Shots, Penicillin Soup, Onion Socks to help with fever. All step‑by‑step with kids’ dosages.",
+          "Text Overlay": "Pantry‑based remedies • Kid dosage built‑in"
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "Make your home its own backup pharmacy.",
+          "Visual_Prompt": "She tucks the book into a clear “Family Emergency Kit” bin beside a flashlight and bandages. Then she looks at camera and points down at an implied button. Background music swells slightly then fades.",
+          "VO": "If you never want your kids’ comfort to depend on a supply chain, tap below to add The Forgotten Home Apothecary to your shelf.",
+          "Audio / script": "If you never want your kids’ comfort to depend on a supply chain, tap below to add The Forgotten Home Apothecary to your shelf.",
+          "Text Overlay": "Tap to get your copy • No internet or pharmacy needed"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "The Grandma They Never Met, In Book Form",
+          "Hook_Type": "Emotional + Nostalgia + Benefits",
+          "Duration": 5,
+          "Hook_Line": "“Mom, how did great‑grandma fix a sore throat without medicine?” My answer now starts with this book.",
+          "Visual_Prompt": "Warm, late‑afternoon light in a cozy kitchen. Child at table, rubbing throat, asks the question. Mom smiles and reaches for The Forgotten Home Apothecary on the counter.",
+          "VO": "“Mom, how did great‑grandma fix a sore throat without medicine?” My answer now starts with this book.",
+          "Audio / script": "“Mom, how did great‑grandma fix a sore throat without medicine?” My answer now starts with this book.",
+          "Text Overlay": "Old‑school wisdom, translated for busy moms"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 6,
+          "Visual_Prompt": "Close‑up of the cover on a wooden table decorated with a simple linen cloth and dried herbs. Camera gently pans across the wooden cabinet illustration, title plaque, and Nicole Apelian, Ph.D. name.",
+          "VO": "It’s called The Forgotten Home Apothecary, by herbalist Dr. Nicole Apelian, Ph.D., with over 30 years of hands‑on plant medicine.",
+          "Audio / script": "It’s called The Forgotten Home Apothecary, by herbalist Dr. Nicole Apelian, Ph.D., with over 30 years of hands‑on plant medicine.",
+          "Text Overlay": "Written by Nicole Apelian, Ph.D. • 30+ years’ experience"
+        },
+        {
+          "Duration": 7,
+          "Visual_Prompt": "She opens to the apothecary‑style table of contents. Finger slides to a shelf labeled “Throat & Cough Soothers”. Taps jars labeled “Soothing Bedtime Cough Syrup”, “Herbal Throat Tea”, “Onion Socks”. Soft, nostalgic piano music.",
+          "VO": "Inside, 250 remedies are laid out on illustrated shelves by body part and symptom, like walking through a tiny herbal shop.",
+          "Audio / script": "Inside, 250 remedies are laid out on illustrated shelves by body part and symptom, like walking through a tiny herbal shop.",
+          "Text Overlay": "250 remedies • Shelves for each body system"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Page close‑up: a simple throat tea and chest rub recipe. Color photos, short Ingredients list, numbered Instructions, Dosage for kids and adults, Helpful Tips box. Mom lays dried chamomile and honey beside the book and starts measuring.",
+          "VO": "Each remedy shows ingredients you can pronounce, step‑by‑step photos, dosages for kids and adults, plus tips from Nicole on how she actually uses them.",
+          "Audio / script": "Each remedy shows ingredients you can pronounce, step‑by‑step photos, dosages for kids and adults, plus tips from Nicole on how she actually uses them.",
+          "Text Overlay": "Simple ingredients • Clear steps • Real‑life tips"
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "Bring “grandma wisdom” back into your kitchen.",
+          "Visual_Prompt": "Child sips warm tea on the couch under a quilt. Mom quietly places the book on a side table next to family photos, then looks to camera and gestures down toward an implied link.",
+          "VO": "If you want something you can pass down besides screen time, tap below to bring The Forgotten Home Apothecary into your home.",
+          "Audio / script": "If you want something you can pass down besides screen time, tap below to bring The Forgotten Home Apothecary into your home.",
+          "Text Overlay": "Tap to see inside • Start your own home apothecary"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "The $40 Book That Replaced a Shelf of $9.99 Bottles",
+          "Hook_Type": "Benefits + Anti-Pharma Lite + FOMO",
+          "Duration": 5,
+          "Hook_Line": "This one $40 book helped me clear out an entire shelf of kids’ medicines and mystery creams.",
+          "Visual_Prompt": "Bathroom cabinet packed with OTC bottles: cough syrup, gas drops, rash cream, kids’ pain reliever. Quick overlay tally of prices adds up.",
+          "VO": "This one forty‑dollar book helped me clear out an entire shelf of kids’ medicines and mystery creams.",
+          "Audio / script": "This one forty‑dollar book helped me clear out an entire shelf of kids’ medicines and mystery creams.",
+          "Text Overlay": "$60+ a month → one book on the shelf"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 6,
+          "Visual_Prompt": "Cut to the same cabinet now mostly empty. The Forgotten Home Apothecary stands in the middle with a few glass jars of herbs and salves. Calm, upbeat acoustic track plays softly.",
+          "VO": "It’s called The Forgotten Home Apothecary, and it’s basically an organized home medicine cabinet in book form.",
+          "Audio / script": "It’s called The Forgotten Home Apothecary, and it’s basically an organized home medicine cabinet in book form.",
+          "Text Overlay": "The Forgotten Home Apothecary • 250 natural remedies"
+        },
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Top‑down shot at the counter. The book is open to the apothecary‑style table of contents. Finger glides from “Tummy Aches” jar to “Rashes & Itching”, then “Sleep & Calming”. Brief taps on “Herbal Parasite Flush” and “Amish Ibuprofen”.",
+          "VO": "There are 250 remedies laid out by ailment and body part. Tummy aches, rashes, pain, sleep support… you just pick what you need off the page.",
+          "Audio / script": "There are 250 remedies laid out by ailment and body part. Tummy aches, rashes, pain, sleep support… you just pick what you need off the page.",
+          "Text Overlay": "Organized by kid issues • Flip right to the fix"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Close‑up of “Amish Ibuprofen” and a gentle rash cream in the Skin/Wounds section. Camera pans: Ingredients, Instructions, Dosage, Side Effects & Allergies, Interactions with Medications. Mom compares a store bottle label to the simple recipe and drops the bottle into a “Donate” box.",
+          "VO": "Each recipe has ingredients, photos, clear steps, dosages, and even side effects and interaction notes, so I’m not guessing or overbuying bottles we barely use.",
+          "Audio / script": "Each recipe has ingredients, photos, clear steps, dosages, and even side effects and interaction notes, so I’m not guessing or overbuying bottles we barely use.",
+          "Text Overlay": "No guessing • No extra bottles • Just clear recipes"
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "Trade plastic bottles for remedies you actually understand.",
+          "Visual_Prompt": "She closes the cabinet with just the book and a few labeled jars visible. Turns to camera, holding the book in one hand, and points down with the other.",
+          "VO": "If you’d rather mix remedies in your own kitchen than keep paying for more little bottles, tap below to grab The Forgotten Home Apothecary while it’s in stock.",
+          "Audio / script": "If you’d rather mix remedies in your own kitchen than keep paying for more little bottles, tap below to grab The Forgotten Home Apothecary while it’s in stock.",
+          "Text Overlay": "Tap to order • Copies go fast when moms share"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "Show Me the Remedy Challenge",
+          "Hook_Type": "Real People Demo + Curiosity + Product-Oriented",
+          "Duration": 5,
+          "Hook_Line": "Comment what your kids always get, and I’ll see if there’s a remedy for it on these shelves.",
+          "Visual_Prompt": "Creator mom, early 30s, casual hoodie, at kitchen island holding The Forgotten Home Apothecary open toward camera. Comments pop around her head with common kid issues.",
+          "VO": "Comment what your kids always get, and I’ll see if there’s a remedy for it on these shelves.",
+          "Audio / script": "Comment what your kids always get, and I’ll see if there’s a remedy for it on these shelves.",
+          "Text Overlay": "Night cough? Tummy bug? Rash? Comment below"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Screen recording‑style overlay: comments appear one by one — “Night cough!!”, “Tummy bugs”, “Random rashes”, “Worms?”, “Growing pains”. Mom looks down at the book and starts flipping with energy.",
+          "VO": "Okay, night cough, tummy bugs, rashes, even parasites… let’s see what’s inside The Forgotten Home Apothecary.",
+          "Audio / script": "Okay, night cough, tummy bugs, rashes, even parasites… let’s see what’s inside The Forgotten Home Apothecary.",
+          "Text Overlay": "Flipping through 250 remedies…"
+        },
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Tight shot of apothecary‑style contents. She taps jars as she speaks: “Soothing Bedtime Cough Syrup”, “Herbal Parasite Flush”, “Herbal Balm for Rashes”, “Amish Ibuprofen”. Quick zooms with each tap.",
+          "VO": "Right here: Soothing Bedtime Cough Syrup for that night cough. Herbal Parasite Flush when someone brings home bugs from school.",
+          "Audio / script": "Right here: Soothing Bedtime Cough Syrup for that night cough. Herbal Parasite Flush when someone brings home bugs from school.",
+          "Text Overlay": "Cough • Parasites • Rashes • Pain support"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Page close‑ups: first “Soothing Bedtime Cough Syrup”, then “Herbal Parasite Flush”. Camera pans Ingredients, Instructions, Dosage, Side Effects & Allergies, Interactions with Medications. Mom underlines kids’ dosage with a pen.",
+          "VO": "Every remedy has ingredients, step‑by‑step photos, dosages for kids, and safety notes. There are 250 of them, all laid out on these little apothecary shelves.",
+          "Audio / script": "Every remedy has ingredients, step‑by‑step photos, dosages for kids, and safety notes. There are 250 of them, all laid out on these little apothecary shelves.",
+          "Text Overlay": "If you can read a recipe, you can use this book"
+        },
+        {
+          "Duration": 7,
+          "CTA_Line": "Grab your own “comment any symptom” book.",
+          "Visual_Prompt": "Mom snaps the book shut gently toward camera so the cover fills the frame, then points down. Upbeat, friendly background music fades slightly to highlight CTA.",
+          "VO": "If you want a solid first stop for the everyday kid stuff, tap below to get The Forgotten Home Apothecary while it’s still in stock.",
+          "Audio / script": "If you want a solid first stop for the everyday kid stuff, tap below to get The Forgotten Home Apothecary while it’s still in stock.",
+          "Text Overlay": "Tap to order • Make your own go‑to remedy guide"
+        }
+      ]
+    }
+  ],
+  "script_other": {
+    "ad_1": {
+      "hooks": [
+        {
+          "Concept": "Revealing that the modern medicine cabinet may not be the safest or only option",
+          "Hook_Type": "Pattern interrupt with authority figure and everyday object",
+          "Duration": 6,
+          "Hook_Line": "This is a medicine cabinet. Think it’s protecting your family? Think again.",
+          "Visual_Prompt": "Close-up of a typical bathroom medicine cabinet door opening in slow motion. Shelves packed with colorful pill bottles, cough syrups, ointments. Soft, cool bathroom lighting.",
+          "VO": "This is a medicine cabinet. Think it’s protecting your family? Think again.",
+          "Audio / script": "Calm but firm female voice. Subtle low ambient hum, no music at first for impact.",
+          "Text Overlay": "This is a medicine cabinet.\nThink it’s protecting your family?\nThink again."
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 6,
+          "Visual_Prompt": "Hook scene continues. Camera slowly pulls back to reveal full cabinet, then cuts just before we see the spokesperson.",
+          "VO": "This is a medicine cabinet. Think it’s protecting your family? Think again.",
+          "Audio / script": "Same as hook. Slight whoosh sound as cabinet door opens.",
+          "Text Overlay": "Most homes start here."
+        },
+        {
+          "Duration": 10,
+          "Visual_Prompt": "Cut to Dr. Nicole Apelian in a warm, rustic kitchen or study. Mid-40s to early-50s woman, casual linen shirt and cardigan, relaxed posture, seated at a wooden table. Behind her: wooden apothecary cabinet with small drawers, glass jars of herbs, her book propped upright. Soft natural daylight.",
+          "VO": "I’m Dr. Nicole Apelian, herbalist and author of The Forgotten Home Apothecary, and I’m about to show you a different way to stock this shelf.",
+          "Audio / script": "Gentle acoustic background music fades in, low volume. Voice steady, friendly, confident.",
+          "Text Overlay": "Dr. Nicole Apelian, Ph.D.\nHerbalist & Author"
+        },
+        {
+          "Duration": 16,
+          "Visual_Prompt": "Montage: close-up of her hands filling a glass jar with dried herbs; pouring oil into a small bottle; labeling a brown glass dropper; flipping through the book showing full-color remedy pages. Cut to a kettle steaming on the stove, then a close-up of a calming tea being poured.",
+          "VO": "Over 30 years of working with plant medicine, I’ve seen how simple kitchen herbs can calm nerves, soothe digestion, ease joint discomfort, support sleep, even care for wounds… without prescriptions, co-pays, or rushed appointments.",
+          "Audio / script": "Music continues, slightly uplifting. Soft kitchen sounds: kettle, light clinks of glass.",
+          "Text Overlay": "Calm nerves • Soothe digestion • Ease joints • Support sleep • Care for wounds"
+        },
+        {
+          "Duration": 18,
+          "CTA_Line": "Click to see inside The Forgotten Home Apothecary.",
+          "Visual_Prompt": "Back to Nicole at the table, the open book between her and the camera. She gently taps 3 marked pages, then holds up a small jar of herbs. Quick cuts: a page titled “Emergency Shelf”, another showing a pain-soothing remedy, then a wide shot of the apothecary cabinet like an organized shelf of solutions.",
+          "VO": "In this short video, I’ll walk you through my home apothecary and reveal: the first 3 remedies I’d make if pharmacies closed… and a two-dollar herb I use before reaching for pain pills. All with step-by-step recipes from my 320-page book, The Forgotten Home Apothecary. Click to see inside.",
+          "Audio / script": "Music swells slightly on “first 3 remedies” and “two-dollar herb,” then settles. Clear, inviting tone on “Click to see inside.”",
+          "Text Overlay": "If pharmacies closed, I’d start with these 3 remedies.\n+ the $2 herb I use before pain pills\n▶ Click to see inside"
+        }
+      ]
+    }
+  },
+  "script_news": [
+    {
+      "ad_1": {
+        "hooks": [
+          {
+            "Concept": "The 'hydration brain fog' warning",
+            "Hook_Type": "Research-based curiosity hook",
+            "Duration": 5,
+            "Hook_Line": "The 'hydration brain fog' warning just came out of a new study on older adults.",
+            "Visual_Prompt": "Close-up of a woman in her early 60s at a kitchen table, rubbing her temples, looking at a half-empty water glass. Soft morning light.",
+            "VO": "The 'hydration brain fog' warning just came out of a new study on older adults.",
+            "Audio / script": "Soft, calm music. Slight page-turn sound in the background.",
+            "Text Overlay": "New study: Hydration & brain fog?"
+          }
+        ],
+        "script_scenes": [
+          {
+            "Duration": 5,
+            "Visual_Prompt": "Same woman, thoughtful expression, glances from the water glass to a notebook that says 'Names? Appointments?'.",
+            "VO": "Researchers found people our age who weren’t well hydrated tended to think and react more slowly.",
+            "Audio / script": "Music continues, subtle ticking clock in background.",
+            "Text Overlay": "Slower thinking… from low fluids?"
+          },
+          {
+            "Duration": 5,
+            "Visual_Prompt": "Cut to cozy kitchen counter. Large mason jar with citrus slices and herbs, another with a mineral-rich tea infusing. Hands gently swirl the jars.",
+            "VO": "No scary pills. Just simple daily fluids… with the right minerals and herbs.",
+            "Audio / script": "Light clink of glass, gentle pour sound.",
+            "Text Overlay": "Simple ‘brain drinks’ on your counter"
+          },
+          {
+            "Duration": 7,
+            "Visual_Prompt": "The Forgotten Home Apothecary book opens on a spread labeled “Nervous System & Memory”. Close-up of a recipe for a memory-supporting tea, highlighted ingredients.",
+            "VO": "Inside The Forgotten Home Apothecary, Dr. Nicole shows you step-by-step memory-supporting teas and tonics, plus how to stock a tiny ‘clarity shelf’ in your kitchen.",
+            "Audio / script": "Page turning, soft music swells slightly.",
+            "Text Overlay": "Step-by-step memory-supporting drinks"
+          },
+          {
+            "Duration": 5,
+            "CTA_Line": "Tap to peek inside the ‘clarity shelf’ section.",
+            "Visual_Prompt": "Woman from scene 1 now relaxed, sipping an herbal drink while the book stands open beside her on the counter.",
+            "VO": "If you’re over 55 and curious how a few jars and common herbs may support a clearer head, tap to peek inside.",
+            "Audio / script": "Music resolves with a gentle chime.",
+            "Text Overlay": "👉 See how to build your ‘clarity shelf’"
+          }
+        ]
+      }
+    },
+    {
+      "ad_2": {
+        "hooks": [
+          {
+            "Concept": "The 'boxed food blues' study",
+            "Hook_Type": "Research-based pantry/mood hook",
+            "Duration": 5,
+            "Hook_Line": "The 'boxed food blues' study just tied heavy ultra-processed foods to a higher risk of depression.",
+            "Visual_Prompt": "Pan across a pantry full of colorful packaged snacks and soda bottles. Camera pauses on the word 'diet' on a can.",
+            "VO": "The 'boxed food blues' study just tied heavy ultra-processed foods to a higher risk of depression.",
+            "Audio / script": "Soft, slightly somber piano for a moment.",
+            "Text Overlay": "Study: Ultra-processed food & low mood"
+          }
+        ],
+        "script_scenes": [
+          {
+            "Duration": 5,
+            "Visual_Prompt": "Split-screen: left side shows boxed cookies and chips; right side shows a woman in her late 50s looking tired on the couch with a snack in hand.",
+            "VO": "The worst offenders? Packaged snacks and artificially sweetened drinks we reach for when we’re worn out.",
+            "Audio / script": "Crinkle of packaging fading under the music.",
+            "Text Overlay": "Snacks & ‘diet’ drinks in the spotlight"
+          },
+          {
+            "Duration": 6,
+            "Visual_Prompt": "Cut to a warm kitchen. Same woman now opens a wooden cabinet with jars of herbs, loose tea, honey, lemons, and The Forgotten Home Apothecary standing upright.",
+            "VO": "But there’s a gentler way to start shifting things, right from your own kitchen shelves.",
+            "Audio / script": "Music brightens. Soft cabinet door sound.",
+            "Text Overlay": "A softer swap: jars instead of boxes"
+          },
+          {
+            "Duration": 7,
+            "Visual_Prompt": "Overhead shot as she flips through the book to a section marked “Mood & Stress”. Close-up of an uplifting tea and a calming evening tonic recipe.",
+            "VO": "Inside The Forgotten Home Apothecary, you’ll see uplifting teas, cozy evening mugs, and simple drink recipes many people use instead of boxed ‘comforts’.",
+            "Audio / script": "Pages turning, kettle beginning to simmer.",
+            "Text Overlay": "Uplifting teas • Calming tonics • Cozy mugs"
+          },
+          {
+            "Duration": 5,
+            "CTA_Line": "Tap to see how a small ‘mood & comfort’ shelf might look in your home.",
+            "Visual_Prompt": "She pours a warm herbal drink into a favorite mug, sets it beside the open book on the counter, camera slowly zooms in.",
+            "VO": "If you’d like ideas for a small ‘mood & comfort’ shelf you can build yourself, tap to peek inside.",
+            "Audio / script": "Soft sip sound, gentle musical chime.",
+            "Text Overlay": "👉 Peek inside The Forgotten Home Apothecary"
+          }
+        ]
+      }
+    },
+    {
+      "ad_3": {
+        "hooks": [
+          {
+            "Concept": "The 'scrolling yourself awake' effect",
+            "Hook_Type": "Research-based sleep & behavior hook",
+            "Duration": 5,
+            "Hook_Line": "The 'scrolling yourself awake' effect just showed up in a new sleep study on older adults.",
+            "Visual_Prompt": "Dim bedroom at night. Woman in her early 60s in bed, face lit by a bright phone screen, clock reads 11:47 PM.",
+            "VO": "The 'scrolling yourself awake' effect just showed up in a new sleep study on older adults.",
+            "Audio / script": "Muted notification ping, soft but restless background music.",
+            "Text Overlay": "Night scrolling = harder sleep?"
+          }
+        ],
+        "script_scenes": [
+          {
+            "Duration": 5,
+            "Visual_Prompt": "Close-up of her eyes blinking, clearly awake. Cut to her phone screen showing social media feed, then to the clock ticking forward.",
+            "VO": "Folks who used phones or tablets before bed reported more trouble falling and staying asleep.",
+            "Audio / script": "Clock ticking grows slightly louder under the music.",
+            "Text Overlay": "Study: More screens, more tossing & turning"
+          },
+          {
+            "Duration": 6,
+            "Visual_Prompt": "Transition: she sets the phone face-down on the nightstand. Scene shifts to a cozy, softly lit kitchen. Kettle on the stove, steam rising.",
+            "VO": "The fix isn’t another app. It’s an old-fashioned wind-down ritual you can actually look forward to.",
+            "Audio / script": "Kettle soft boiling sound, music warms and softens.",
+            "Text Overlay": "Trade scrolling for a simple ritual"
+          },
+          {
+            "Duration": 7,
+            "Visual_Prompt": "She opens The Forgotten Home Apothecary to a section labeled “Sleep & Relaxation.” Close-up of a bedtime tea recipe and a relaxing foot soak.",
+            "VO": "Inside The Forgotten Home Apothecary, Dr. Nicole shows gentle teas, relaxing foot soaks, and simple aromatic blends many women keep on a little ‘sleep tray’.",
+            "Audio / script": "Pages turning, water pouring into a mug, faint clink of spoon.",
+            "Text Overlay": "Build your own bedtime apothecary"
+          },
+          {
+            "Duration": 5,
+            "CTA_Line": "Tap to see how other women 55+ are using this bedtime tray idea.",
+            "Visual_Prompt": "Back in the bedroom: she sits in bed, phone turned off, sipping an herbal tea, book on her lap, lights softer.",
+            "VO": "If you’d like to swap a few minutes of scrolling for a warm mug and a quiet ritual you made yourself, tap to peek inside.",
+            "Audio / script": "Gentle exhale, music ends on a calm chord.",
+            "Text Overlay": "👉 Peek inside The Forgotten Home Apothecary"
+          }
+        ]
+      }
+    }
+  ]
+}

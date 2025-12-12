@@ -1,0 +1,470 @@
+{
+  "script_zero": [
+    {
+      "hooks": [
+        {
+          "Concept": "The 2 A.M. Panic Drawer",
+          "Hook_Type": "Pain-point + curiosity",
+          "Duration": 4,
+          "Hook_Line": "Ever notice your anxiety waits until 2 a.m. to show up?",
+          "Visual_Prompt": "Night shot. Woman in her 40s, soft natural look, lying in bed on her side. Only light is the cold blue glow from her phone and a digital clock showing 2:07 a.m. She stares at the ceiling, thumb frozen mid-scroll.",
+          "VO": "Ever notice your anxiety waits until 2 a.m. to show up?",
+          "Audio / script": "Ever notice your anxiety waits until 2 a.m. to show up?",
+          "Text Overlay": "2:07 a.m. And your brain won\u2019t shut off."
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 6,
+          "Visual_Prompt": "Same woman sighs, puts phone face-down. Camera close on hand opening bedside drawer labeled \u201cPharmacy.\u201d Inside: almost empty prescription bottle, crumpled side-effect sheet. She closes it, then opens second drawer labeled \u201cHome Apothecary\u201d with The Forgotten Home Apothecary, a small jar of dried herbs, and a tea mug.",
+          "VO": "When my brain starts sprinting at 2 a.m., this used to be the only drawer I had. Now I open this one instead.",
+          "Audio / script": "When my brain starts sprinting at 2 a.m., this used to be the only drawer I had. Now I open this one instead.",
+          "Text Overlay": "Swap panic drawer \u2192 calm drawer"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Over-shoulder shot as she flips The Forgotten Home Apothecary open to the Nervous System section. Camera slowly pans across shelf-style table of contents: \u201cFor racing thoughts,\u201d \u201cFor middle-of-the-night waking,\u201d \u201cFor knot-in-your-chest days.\u201d Her fingertip taps each label.",
+          "VO": "The Forgotten Home Apothecary lays everything out like an old apothecary shelf. I just pick what I need\u2026 \u2018racing thoughts,\u2019 \u2018middle-of-the-night waking,\u2019 \u2018knot-in-your-chest days.\u2019",
+          "Audio / script": "The Forgotten Home Apothecary lays everything out like an old apothecary shelf. I just pick what I need\u2026 \u2018racing thoughts,\u2019 \u2018middle-of-the-night waking,\u2019 \u2018knot-in-your-chest days.\u2019",
+          "Text Overlay": "250 remedies \u2022 organized by symptom"
+        },
+        {
+          "Duration": 9,
+          "Visual_Prompt": "Close-up of one calming sleep remedy page. Camera glides down the sections as her finger traces: Ingredients, Step-by-step Instructions, Dosage, Side Effects & Allergies, Interactions with Medications. Quick inserts of her gently dropping herbs into a mug and pouring hot water.",
+          "VO": "Every remedy has clear ingredients, step-by-step instructions, exact dosage, even side effects and medication interactions. So I\u2019m not guessing in the middle of the night.",
+          "Audio / script": "Every remedy has clear ingredients, step-by-step instructions, exact dosage, even side effects and medication interactions. So I\u2019m not guessing in the middle of the night.",
+          "Text Overlay": "Not random internet tips. A bedside manual."
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "Peek inside the book before it\u2019s gone again.",
+          "Visual_Prompt": "Soft lamplight. She sits up in bed, sipping tea, phone screen dark on the nightstand. Camera lingers on the book cover: The Forgotten Home Apothecary. Her hand rests on it, calm. Subtle music fades warm and low.",
+          "VO": "This isn\u2019t another app or subscription. It\u2019s 250 photographed remedies in one book, on your nightstand, whenever your brain decides it\u2019s time to panic.",
+          "Audio / script": "This isn\u2019t another app or subscription. It\u2019s 250 photographed remedies in one book, on your nightstand, whenever your brain decides it\u2019s time to panic. Tap below to peek inside before it\u2019s gone again.",
+          "Text Overlay": "Always on your shelf. Tap to look inside."
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "What Your Anxiety Prescription Didn\u2019t Tell You\u2026",
+          "Hook_Type": "Counterintuitive + authority",
+          "Duration": 4,
+          "Hook_Line": "Your stress \u201ctreatment\u201d might be missing the simplest step.",
+          "Visual_Prompt": "Split screen. Left: close-up of prescription bottle and a huge side-effect leaflet unfolding across the table. Right: warm shot of The Forgotten Home Apothecary open to a nerve-calming tea, steam rising from a mug.",
+          "VO": "Your stress \u201ctreatment\u201d might be missing the simplest step.",
+          "Audio / script": "Your stress \u201ctreatment\u201d might be missing the simplest step.",
+          "Text Overlay": "There IS something else you can try first."
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Woman in her late 30s, in comfy loungewear at the kitchen table at dusk. She holds a small prescription bottle in one hand, looks tired. She sets it down next to The Forgotten Home Apothecary, fingers resting on the cover.",
+          "VO": "My doctor offered me sleeping pills. I asked, \u2018What else can I try first?\u2019 He didn\u2019t really have an answer. So I bought this instead.",
+          "Audio / script": "My doctor offered me sleeping pills. I asked, \u2018What else can I try first?\u2019 He didn\u2019t really have an answer. So I bought this instead.",
+          "Text Overlay": "Not anti\u2011medicine. Pro options."
+        },
+        {
+          "Duration": 9,
+          "Visual_Prompt": "Over-shoulder shot as she flips to Nervous and Endocrine sections. Camera zooms on recipes labeled: Sleep Tonic, Adaptogenic Stress Tea, Calming Tincture. Her finger underlines each title. Soft, steady background music.",
+          "VO": "Inside The Forgotten Home Apothecary, the nervous system and endocrine sections walk you through sleep tonics, adaptogenic stress teas, and calming tinctures, all laid out by symptom.",
+          "Audio / script": "Inside The Forgotten Home Apothecary, the nervous system and endocrine sections walk you through sleep tonics, adaptogenic stress teas, and calming tinctures, all laid out by symptom.",
+          "Text Overlay": "Stress, sleep, mood \u2192 organized by what you feel"
+        },
+        {
+          "Duration": 9,
+          "Visual_Prompt": "Tight close-up of a remedy page. Finger slowly traces: Ingredients, Instructions, Dosage, Side Effects, Interactions with Medications. Quick cut to Dr. Nicole\u2019s photo and credentials on the About page.",
+          "VO": "Every remedy has exact dosages, plus side effects and medication interaction notes, from Dr. Nicole Apelian, an herbalist with over 30 years of experience.",
+          "Audio / script": "Every remedy has exact dosages, plus side effects and medication interaction notes, from Dr. Nicole Apelian, an herbalist with over 30 years of experience.",
+          "Text Overlay": "Clear. Cautious. Practical."
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "See if this belongs on your nightstand.",
+          "Visual_Prompt": "She pours a cup of herbal tea from ingredients shown beside the open book. She slides the pill bottle a bit further away, rests her hand on the book. Camera ends on the cover.",
+          "VO": "This book doesn\u2019t replace your doctor. It finally gives you real options to talk about. Tap below to look inside and see if it belongs on your nightstand.",
+          "Audio / script": "This book doesn\u2019t replace your doctor. It finally gives you real options to talk about. Tap below to look inside and see if it belongs on your nightstand.",
+          "Text Overlay": "One book. 250 supports for stress & sleep."
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "3 Screens You Watch Before Bed (And 1 That Might Actually Help You Sleep)",
+          "Hook_Type": "Curiosity + benefit",
+          "Duration": 4,
+          "Hook_Line": "You\u2019ve tried blue\u2011light blockers\u2026 but not this.",
+          "Visual_Prompt": "Fast cuts in a dark bedroom: phone in hand, TV glow, laptop on the bed. Then a warm lamp flicks on, and the phone screen goes dark as The Forgotten Home Apothecary opens.",
+          "VO": "You\u2019ve tried blue\u2011light blockers\u2026 but not this.",
+          "Audio / script": "You\u2019ve tried blue\u2011light blockers\u2026 but not this.",
+          "Text Overlay": "Swap 20 minutes of scrolling for this."
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Woman in her early 40s in bed, scrolling. She rubs her temples, locks her phone, and reaches to her nightstand. Camera follows her hand to The Forgotten Home Apothecary lying next to her glasses.",
+          "VO": "Most nights I used to just scroll until my eyes burned. Now I give my nervous system one page instead of one more episode.",
+          "Audio / script": "Most nights I used to just scroll until my eyes burned. Now I give my nervous system one page instead of one more episode.",
+          "Text Overlay": "Bedtime doomscroll vs. bedtime ritual"
+        },
+        {
+          "Duration": 9,
+          "Visual_Prompt": "Over-shoulder close-up as she opens to a Sleep & Calm spread. Camera pauses on three remedies with labels added in edit: \u201cI fall asleep but wake at 3 a.m.,\u201d \u201cI can\u2019t shut my brain off,\u201d \u201cMy shoulders live up by my ears.\u201d",
+          "VO": "In The Forgotten Home Apothecary, the sleep and calm remedies are organized by how your night actually feels: can\u2019t shut your brain off, wake at 3 a.m., or that tight shoulders, wired\u2011tired feeling.",
+          "Audio / script": "In The Forgotten Home Apothecary, the sleep and calm remedies are organized by how your night actually feels: can\u2019t shut your brain off, wake at 3 a.m., or that tight shoulders, wired\u2011tired feeling.",
+          "Text Overlay": "Pick the page that matches your night."
+        },
+        {
+          "Duration": 9,
+          "Visual_Prompt": "Macro shot sliding down one remedy page. On-screen bubbles highlight: \u201cEveryday ingredients,\u201d \u201cStep-by-step,\u201d \u201cPrecise dosage,\u201d \u201cSide effects listed,\u201d \u201cMeds interactions.\u201d She adds herbs to a mug and sets a timer on the stove.",
+          "VO": "Each recipe shows everyday ingredients, step\u2011by\u2011step instructions, precise dosage, plus side effects and medication interactions, so it feels calm and safe to try.",
+          "Audio / script": "Each recipe shows everyday ingredients, step\u2011by\u2011step instructions, precise dosage, plus side effects and medication interactions, so it feels calm and safe to try.",
+          "Text Overlay": "Calm, clear, actionable."
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "Flip through the sleep section now.",
+          "Visual_Prompt": "She settles back against pillows with tea and the book open, glasses on. Camera slowly pushes in on the open Sleep & Calm pages, then pulls focus to the cover on the nightstand.",
+          "VO": "Replace 20 minutes of scrolling with 20 minutes of real nervous system support. Tap to flip through the sleep section and see what your nights could look like.",
+          "Audio / script": "Replace 20 minutes of scrolling with 20 minutes of real nervous system support. Tap to flip through the sleep section and see what your nights could look like.",
+          "Text Overlay": "Your new \u201cone more page\u201d before bed."
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "The Invisible Load Test",
+          "Hook_Type": "Emotional pain-point",
+          "Duration": 4,
+          "Hook_Line": "If your brain never clocks out\u2026 this is for you.",
+          "Visual_Prompt": "Montage: woman in her late 30s juggling laptop, stirring a pot, kids\u2019 backpacks, buzzing phone. Cut to her sitting alone at the table at night, shoulders up by her ears, staring at nothing.",
+          "VO": "If your brain never clocks out\u2026 this is for you.",
+          "Audio / script": "If your brain never clocks out\u2026 this is for you.",
+          "Text Overlay": "Mental load maxed out?"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "She drops onto the couch, exhales. Coffee table has scattered mail and a half-finished to\u2011do list. She picks up The Forgotten Home Apothecary from under a stack of papers and rests it on her lap.",
+          "VO": "You can run a household, a workload, and everyone\u2019s emotions on instinct. But no one ever taught you how to take care of your own nervous system.",
+          "Audio / script": "You can run a household, a workload, and everyone\u2019s emotions on instinct. But no one ever taught you how to take care of your own nervous system.",
+          "Text Overlay": "You handle everything. What handles you?"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Over-shoulder shot as she opens to the Nervous & Endocrine sections. Camera highlights remedies labeled: \u201cDaily Stress Tonic,\u201d \u201cAfter-a-hard-day Tea,\u201d \u201cBefore-tough-conversations Blend.\u201d Her finger taps each one like choosing from a menu.",
+          "VO": "The Forgotten Home Apothecary has a whole shelf just for that: a daily stress tonic, an after\u2011a\u2011hard\u2011day tea, even a blend for before tough conversations.",
+          "Audio / script": "The Forgotten Home Apothecary has a whole shelf just for that: a daily stress tonic, an after\u2011a\u2011hard\u2011day tea, even a blend for before tough conversations.",
+          "Text Overlay": "Real recipes for real days."
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Close-up of a remedy page. Camera slowly scrolls down: Ingredients, Instructions, Dosage, Side Effects & Allergies, Interactions with Medications. She starts measuring herbs into a jar in the background.",
+          "VO": "Each remedy is laid out with ingredients, clear steps, exact dosages, plus side effects and medication interactions, so it\u2019s not guesswork, even when you\u2019re exhausted.",
+          "Audio / script": "Each remedy is laid out with ingredients, clear steps, exact dosages, plus side effects and medication interactions, so it\u2019s not guesswork, even when you\u2019re exhausted.",
+          "Text Overlay": "Step\u2011by\u2011step. No guessing."
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "Look inside and see if it feels like support.",
+          "Visual_Prompt": "She sits back with a warm mug, shoulders visibly lower, book open beside her. Camera centers on the apothecary-style table of contents, then on the cover.",
+          "VO": "This book won\u2019t fold your laundry. But it will finally give you something solid to lean on. Tap below to look inside and see if it feels like real support.",
+          "Audio / script": "This book won\u2019t fold your laundry. But it will finally give you something solid to lean on. Tap below to look inside and see if it feels like real support.",
+          "Text Overlay": "A home apothecary for your overloaded system."
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "The Question Your Doctor Never Has Time To Answer",
+          "Hook_Type": "Authority + curiosity",
+          "Duration": 4,
+          "Hook_Line": "What else can I try before more meds?",
+          "Visual_Prompt": "Exam room. Woman in her 40s sits on the table, paper crinkling. Wall clock ticks loudly. Door shuts as doctor leaves quickly. She\u2019s left staring at the prescription in her hand.",
+          "VO": "What else can I try before more meds?",
+          "Audio / script": "What else can I try before more meds?",
+          "Text Overlay": "Ever think this but not say it?"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 7,
+          "Visual_Prompt": "She walks into her kitchen, sets the prescription on the counter next to The Forgotten Home Apothecary. She hesitates, then pulls the book toward her instead.",
+          "VO": "You\u2019ve probably asked yourself that question in your head. You just rarely get the time to say it out loud.",
+          "Audio / script": "You\u2019ve probably asked yourself that question in your head. You just rarely get the time to say it out loud.",
+          "Text Overlay": "You deserve more than a 15\u2011minute plan."
+        },
+        {
+          "Duration": 9,
+          "Visual_Prompt": "Over-shoulder shot as she opens to Nervous, Endocrine, and Cardiovascular sections. Camera highlights gentle blood pressure support, stress blends, and sleep formulas organized on the apothecary-style shelves.",
+          "VO": "The Forgotten Home Apothecary is the guide I wish I had then. Nervous, endocrine, and cardiovascular sections laid out like shelves, with remedies for stress, sleep, and gentle blood pressure support.",
+          "Audio / script": "The Forgotten Home Apothecary is the guide I wish I had then. Nervous, endocrine, and cardiovascular sections laid out like shelves, with remedies for stress, sleep, and gentle blood pressure support.",
+          "Text Overlay": "Whole\u2011body support in one place."
+        },
+        {
+          "Duration": 9,
+          "Visual_Prompt": "Close-up of small info boxes on a remedy page: \u201cSide Effects & Allergies,\u201d \u201cInteractions with Common Medications.\u201d Cut to the long medication interaction list pages being flipped.",
+          "VO": "Every remedy lists side effects and interactions with common medications, so you can bring smarter questions to your next appointment instead of random screenshots.",
+          "Audio / script": "Every remedy lists side effects and interactions with common medications, so you can bring smarter questions to your next appointment instead of random screenshots.",
+          "Text Overlay": "Bring this to your next checkup."
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "Preview the chapters now.",
+          "Visual_Prompt": "She makes a simple tea from the book, then rests one hand on the cover next to the prescription. Camera lands on the ornate book cover and title.",
+          "VO": "It\u2019s not about choosing herbs or meds. It\u2019s about finally having real options. Tap below to preview the chapters and see if this fills the gap your visits leave.",
+          "Audio / script": "It\u2019s not about choosing herbs or meds. It\u2019s about finally having real options. Tap below to preview the chapters and see if this fills the gap your visits leave.",
+          "Text Overlay": "One book. Better questions. Better choices."
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "The 30\u2011Day \u2018No More Mystery Meltdowns\u2019 Challenge",
+          "Hook_Type": "Challenge + benefit",
+          "Duration": 4,
+          "Hook_Line": "What if you treated your nervous system like a 30\u2011day experiment?",
+          "Visual_Prompt": "Overhead shot of a simple calendar page on a fridge. Days are X\u2019d off in red. The Forgotten Home Apothecary leans against a mug of tea on the counter below.",
+          "VO": "What if you treated your nervous system like a 30\u2011day experiment?",
+          "Audio / script": "What if you treated your nervous system like a 30\u2011day experiment?",
+          "Text Overlay": "Not a life sentence. A 30\u2011day test."
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Woman in her late 30s at the kitchen island in the morning. Kids\u2019 stuff in the background. She opens The Forgotten Home Apothecary to a stress tonic recipe while coffee brews behind her.",
+          "VO": "I gave myself 30 days with this book. One stress remedy in the morning, one sleep support at night. No perfection, just consistency.",
+          "Audio / script": "I gave myself 30 days with this book. One stress remedy in the morning, one sleep support at night. No perfection, just consistency.",
+          "Text Overlay": "30 days. Morning + night."
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Fast but calm B\u2011roll: her steeping an adaptogen tea, adding drops from a tincture bottle, sprinkling a bath soak at night, all with The Forgotten Home Apothecary open beside her.",
+          "VO": "The Forgotten Home Apothecary has over 250 remedies, so it was easy to pick a gentle adaptogen tea, a tension\u2011release oil, and a simple nighttime blend I could actually stick with.",
+          "Audio / script": "The Forgotten Home Apothecary has over 250 remedies, so it was easy to pick a gentle adaptogen tea, a tension\u2011release oil, and a simple nighttime blend I could actually stick with.",
+          "Text Overlay": "Pick your 2. The book does the rest."
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Close-up of a notes section in a journal: columns labeled Energy, Sleep, Snaps. She marks small dots along a 30\u2011day line. The open book is beside the journal, pages marked with sticky tabs.",
+          "VO": "I started tracking my energy, my sleep, and how often I snapped. Tiny shifts added up once my nervous system actually felt supported.",
+          "Audio / script": "I started tracking my energy, my sleep, and how often I snapped. Tiny shifts added up once my nervous system actually felt supported.",
+          "Text Overlay": "Track what actually matters."
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "Start your own 30\u2011day nervous system experiment.",
+          "Visual_Prompt": "Camera glides over the apothecary-style table of contents, then lands on the cover propped on the counter. Subtle, steady background music.",
+          "VO": "You\u2019ve tried muscling through. Try 30 days of supported instead. Tap below to get The Forgotten Home Apothecary and set up your own nervous system experiment.",
+          "Audio / script": "You\u2019ve tried muscling through. Try 30 days of supported instead. Tap below to get The Forgotten Home Apothecary and set up your own nervous system experiment.",
+          "Text Overlay": "Day 1 can start tonight. Tap to begin.  // TOP PICK"
+        }
+      ]
+    }
+  ],
+  "script_other": {
+    "hooks": [
+      {
+        "Concept": "Everyday kitchen jar hiding powerful remedies",
+        "Hook_Type": "Pattern interrupt with common object + authority reveal",
+        "Duration": 5,
+        "Hook_Line": "This is a kitchen jar. Think it's just for spices? Think again.",
+        "Visual_Prompt": "Close-up of a simple glass spice jar held in a hand. Neutral kitchen background blurred. Soft natural light.",
+        "VO": "This is a kitchen jar. Think it\u2019s just for spices? Think again.",
+        "Audio / script": "Soft, minimal ambient music fades in. Subtle glass clink as the jar is lifted.",
+        "Text Overlay": "This is a kitchen jar.\nThink it\u2019s just for spices?"
+      }
+    ],
+    "script_scenes": [
+      {
+        "Duration": 5,
+        "Visual_Prompt": "Extreme close-up of a glass jar filled with dried herbs on a wooden counter. We only see a hand, not the person yet. Brand-style warm, earthy color grade.",
+        "VO": "This is a kitchen jar. You probably walk past one like it every day.",
+        "Audio / script": "Calm, curious tone. Soft ambient music continues.",
+        "Text Overlay": "You walk past this every day."
+      },
+      {
+        "Duration": 5,
+        "Visual_Prompt": "Camera pulls back to reveal Dr. Nicole Apelian, mid-50s female, outdoorsy-professional look. Linen shirt, dark vest, subtle jewelry, glasses. She sits at a wooden table in a cozy kitchen with open shelves, jars, and herbs hanging to dry. Good natural lighting.",
+        "VO": "Think it\u2019s just for spices? Think again.",
+        "Audio / script": "She gently taps the jar with a fingertip for emphasis.",
+        "Text Overlay": "Think it\u2019s just for spices?\nThink again."
+      },
+      {
+        "Duration": 10,
+        "Visual_Prompt": "Medium shot of Nicole speaking directly to camera from her kitchen table. The open The Forgotten Home Apothecary book is visible beside her, pages of colorful remedies and bottles. Diplomas or certificates subtly framed in the background.",
+        "VO": "I\u2019m Dr. Nicole Apelian, herbalist and author of The Forgotten Home Apothecary, and I\u2019m here to open your eyes.",
+        "Audio / script": "Warm, confident tone. She gestures lightly toward the open book, then to the shelves behind her.",
+        "Text Overlay": "Dr. Nicole Apelian, Ph.D.\nAuthor, The Forgotten Home Apothecary"
+      },
+      {
+        "Duration": 10,
+        "Visual_Prompt": "Montage: close-ups of the book\u2019s apothecary-style pages flipping by\u2014labels like \u201cSleep,\u201d \u201cDigestion,\u201d \u201cSkin & Wounds.\u201d Cut to Nicole measuring herbs into a jar, then a brief shot of a person rubbing a homemade balm on their hand.",
+        "VO": "Over 30 years of working with plant medicine, I\u2019ve learned something surprising: Your home can quietly hold remedies for stubborn sleep, tense nerves, slow digestion, problem skin, and more.",
+        "Audio / script": "Music swells slightly. Soft sounds of pages turning, spoon tapping glass.",
+        "Text Overlay": "Natural support for sleep \u2022 nerves \u2022 digestion \u2022 skin"
+      },
+      {
+        "Duration": 10,
+        "Visual_Prompt": "Nicole back at the table, leaning in slightly, book open to a specific remedy page. Quick inserts of \u201cbefore\u201d style shots: cluttered bathroom shelf, overstuffed medicine cabinet; then clean, simple shelf with labeled jars.",
+        "VO": "In this short video, I\u2019ll show you one simple remedy most people overlook, plus a few \u201chealthy\u201d products that quietly work against your body.",
+        "Audio / script": "Tone becomes more confidential, like sharing a secret.",
+        "Text Overlay": "1 overlooked remedy\n+ a few \u201chealthy\u201d products to rethink"
+      },
+      {
+        "Duration": 10,
+        "CTA_Line": "Watch more",
+        "Visual_Prompt": "Close-up of Nicole\u2019s hands closing the book, revealing the ornate apothecary-style cover. Camera slowly pushes in on the title: \u201cThe Forgotten Home Apothecary \u2013 250 Powerful Remedies at Your Fingertips.\u201d A subtle on-screen button appears: \u201cWatch more.\u201d",
+        "VO": "Best part? You can make these remedies yourself with ingredients you probably already have. Watch more.",
+        "Audio / script": "Reassuring tone. Music resolves into a gentle, hopeful cadence.",
+        "Text Overlay": "Make your own remedies\nwith what you already have.\nWatch more \u25b6"
+      }
+    ]
+  },
+  "script_news": [
+    {
+      "hooks": [
+        {
+          "Concept": "The 30-second 'herb sniff' that may calm your nervous system",
+          "Hook_Type": "Research-based curiosity hook",
+          "Duration": 5,
+          "Hook_Line": "Let me show you the 30\u2011second 'herb sniff' that may calm your nervous system.",
+          "Visual_Prompt": "Close-up of a woman in her late 50s gently opening a small amber bottle with dried lavender, lifting it toward her nose.",
+          "VO": "Let me show you the 30\u2011second 'herb sniff' that may calm your nervous system.",
+          "Audio / script": "Soft, calming acoustic music begins.",
+          "Text Overlay": "The 30\u2011second 'herb sniff'?"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 5,
+          "Visual_Prompt": "Woman 55\u201360, casual cardigan, in a cozy kitchen. She opens an amber jar of lavender, closes her eyes, and takes a slow breath in.",
+          "VO": "A new study found that simply inhaling lavender for half a minute was linked to a more relaxed, rest\u2011and\u2011digest state.",
+          "Audio / script": "Calm acoustic background continues.",
+          "Text Overlay": "New research on lavender & relaxation"
+        },
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Camera pans over a wooden shelf with labeled jars: 'Lavender', 'Lemon Balm', 'Chamomile', plus a teapot and small dropper bottles.",
+          "VO": "Herbalists have used this kind of thing for generations\u2026 long before sleep apps and gadgets.",
+          "Audio / script": "Music softens; gentle page\u2011turn sound effect.",
+          "Text Overlay": "Old remedies, simple habits"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Hands flip open The Forgotten Home Apothecary to a calming tea and tincture spread. Close-ups on photos, dosages, and step-by-step instructions.",
+          "VO": "In The Forgotten Home Apothecary, you\u2019ll find calming teas, tinctures, and even simple 'jar inhalers' with herbs you already know.",
+          "Audio / script": "Music continues; faint kettle whistle in background.",
+          "Text Overlay": "Make your own calming remedies at home"
+        },
+        {
+          "Duration": 5,
+          "CTA_Line": "Tap to peek inside the book.",
+          "Visual_Prompt": "Book propped on the counter next to a steaming mug; camera slowly zooms in on the cover.",
+          "VO": "If you like the idea of easing tension with gentle plant remedies, tap to peek inside the book.",
+          "Audio / script": "Music gently resolves with a soft chord.",
+          "Text Overlay": "See how these remedies come together \u2192"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "The surprising 'kitchen parasite' study",
+          "Hook_Type": "Health news curiosity hook",
+          "Duration": 6,
+          "Hook_Line": "Only people born before 1970 still talk about this 'kitchen parasite' warning.",
+          "Visual_Prompt": "Woman early 60s in a sunny kitchen, setting down a basket of garden vegetables and glancing toward the camera like she\u2019s sharing a secret.",
+          "VO": "Only people born before 1970 still talk about this 'kitchen parasite' warning.",
+          "Audio / script": "Light, curious background music starts.",
+          "Text Overlay": "'Kitchen parasite' warning?"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 6,
+          "Visual_Prompt": "Close-up of hands rinsing leafy greens and root veggies at the sink, dog walking through in the background.",
+          "VO": "New research suggests low\u2011level parasite exposure may be more common than we think\u2026 even if your water is clean, especially if you garden, have pets, or cook a lot at home.",
+          "Audio / script": "Water running; soft music underneath.",
+          "Text Overlay": "Parasites: more common than we think?"
+        },
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Cut to the woman opening a small wooden cabinet with jars labeled 'Black Walnut', 'Clove', 'Pumpkin Seed', 'Garlic'.",
+          "VO": "That doesn\u2019t mean panic. But it does make a lot of us wonder how to support a comfortable, balanced gut\u2026 the natural way.",
+          "Audio / script": "Music remains steady, calm.",
+          "Text Overlay": "Gentle, natural gut support"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Hands flip The Forgotten Home Apothecary open to an 'Anti-Parasitic' and 'Gut Support' section, highlighting a herbal parasite blend and tincture instructions.",
+          "VO": "Inside The Forgotten Home Apothecary, you\u2019ll see old\u2011style parasite support routines, with clear steps and everyday ingredients.",
+          "Audio / script": "Soft page\u2011turn and clink of glass dropper.",
+          "Text Overlay": "Step\u2011by\u2011step herbal parasite support"
+        },
+        {
+          "Duration": 5,
+          "CTA_Line": "Tap to look inside.",
+          "Visual_Prompt": "Book on the counter, next to a small glass of herbal drops in water and a bowl of pumpkin seeds; camera slow zoom on the cover.",
+          "VO": "If you\u2019d like to see how these herbal routines are put together, tap to look inside.",
+          "Audio / script": "Music gently fades out.",
+          "Text Overlay": "Build your own 'gut health' shelf \u2192"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "The 'kitchen penicillin' soup study",
+          "Hook_Type": "Science-meets-tradition hook",
+          "Duration": 6,
+          "Hook_Line": "Scientists just revisited the old 'kitchen penicillin' idea.",
+          "Visual_Prompt": "Overhead shot of a pot of simmering soup with visible garlic cloves, onion slices, and herbs; steam rising.",
+          "VO": "Scientists just revisited the old 'kitchen penicillin' idea.",
+          "Audio / script": "Warm, homely piano music begins; gentle bubbling soup sounds.",
+          "Text Overlay": "'Kitchen penicillin'?"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 6,
+          "Visual_Prompt": "Close-up of a cutting board: hands of a woman in her late 50s chopping onion and garlic.",
+          "VO": "New research links everyday garlic and onion with signs of stronger immune responses and fewer common respiratory complaints over time.",
+          "Audio / script": "Chopping sounds; soft piano underneath.",
+          "Text Overlay": "Garlic & onion linked to immune support"
+        },
+        {
+          "Duration": 7,
+          "Visual_Prompt": "Vintage-style family photo framed on the counter, then back to the woman stirring a big pot of soup on the stove.",
+          "VO": "Our grandmothers didn\u2019t need a study to know this. They just made big pots of soup the minute anyone sounded stuffy.",
+          "Audio / script": "Spoon clinking against pot; music feels nostalgic.",
+          "Text Overlay": "Grandma\u2019s way still works"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Hands open The Forgotten Home Apothecary to the 'Penicillin Soup' recipe and 'Jello Flu Shots' page; camera lingers on photos and simple ingredient lists.",
+          "VO": "Inside The Forgotten Home Apothecary, you\u2019ll find 'Penicillin Soup,' Amish\u2011style tonics, and even little flu\u2011shot jello cubes many people use for winter support.",
+          "Audio / script": "Page\u2011turn sounds; soft piano continues.",
+          "Text Overlay": "Step\u2011by\u2011step immune-support recipes"
+        },
+        {
+          "Duration": 5,
+          "CTA_Line": "Tap to peek at the immune section.",
+          "Visual_Prompt": "Book displayed next to a bowl of steaming soup on a wooden table; camera slowly zooms toward the cover.",
+          "VO": "Want to see what\u2019s in that soup and how to make it? Tap to peek at the immune\u2011support section inside.",
+          "Audio / script": "Music ends on a warm, gentle chord.",
+          "Text Overlay": "Turn pantry staples into a home apothecary \u2192"
+        }
+      ]
+    }
+  ]
+}

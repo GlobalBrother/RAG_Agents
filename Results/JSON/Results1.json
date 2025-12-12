@@ -1,0 +1,364 @@
+{
+  "script_zero": [
+    {
+      "hooks": [
+        {
+          "Concept": "The 2 A.M. Mom\u2019s Secret Shelf",
+          "Hook_Type": "Pain point + Emotional + Curiosity",
+          "Duration": 5,
+          "Hook_Line": "It\u2019s 2 A.M., your kid is coughing again\u2026do you grab your keys or this book?",
+          "Visual_Prompt": "Bleary\u2011eyed mom in oversized T\u2011shirt, dark bedroom, dim lamp. She glances at her sleeping, coughing child, then at car keys on the nightstand. Next to the keys is The Forgotten Home Apothecary.",
+          "VO": "It\u2019s 2 A.M., your kid is coughing again\u2026do you grab your keys or this book?",
+          "Audio / script": "Soft, low ambient music. Gentle coughs from child, faint night sounds.",
+          "Text Overlay": "The 2 A.M. Mom\u2019s Secret Shelf"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Close\u2011up of the book cover on the nightstand. Mom\u2019s hand chooses the book instead of the keys. She quietly opens to the apothecary\u2011style table of contents that looks like wooden shelves.",
+          "VO": "This is The Forgotten Home Apothecary\u2026250 kid\u2011safe natural remedies, laid out like an old apothecary so you can flip straight to COUGHS, FEVERS, EARACHES at 2 A.M.",
+          "Audio / script": "Soft page\u2011turn sounds. Calm, reassuring female voice, late\u201130s, mom\u2011next\u2011door tone.",
+          "Text Overlay": "250 remedies \u2022 Organized by COUGH, FEVER, EARACHE"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Over\u2011the\u2011shoulder shot: her finger traces the shelf image labeled \u201cRespiratory \u2192 Cough.\u201d Cut in to a remedy like \u201cJello Flu Shots\u201d and \u201cPenicillin Soup\u201d with clear ingredients, dosage, and side effects boxes.",
+          "VO": "Every remedy shows ingredients you recognize, step\u2011by\u2011step photos, exact dosages by age, plus side effects and interactions with meds, so you\u2019re not guessing with your kids.",
+          "Audio / script": "Subtle ticking clock in background, then soft whoosh as pages flip.",
+          "Text Overlay": "Clear dosage \u2022 Side effects \u2022 Med interactions"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Kitchen in low light. Mom quietly stirs a small pot of Penicillin Soup or pours a Jello Flu Shot into a spoon. Gives it to her child, who settles back into bed, coughing less.",
+          "VO": "Remedies like Penicillin Soup, Onion Socks for fevers, and Jello Flu Shots use pantry staples and inexpensive herbs\u2026and cost pennies per dose.",
+          "Audio / script": "Gentle clink of spoon on mug, soft exhale as child relaxes.",
+          "Text Overlay": "Pennies per dose \u2022 Pantry ingredients"
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "Next time, reach for a remedy, not your car keys.",
+          "Visual_Prompt": "Mom turns off the lamp, sets the book on her nightstand with a bookmark in \u201cCough \u2013 Children.\u201d Quick close\u2011up of the ornate cover and Dr. Nicole Apelian\u2019s name. Finger points down to where a link would be.",
+          "VO": "This is my 2 A.M. secret shelf. The Forgotten Home Apothecary lives by my bed now. Tap below to grab your copy before cold season hits.",
+          "Audio / script": "Music swells slightly, then soft fade out.",
+          "Text Overlay": "Tap to add this to your nightstand \u2192"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "What I Stopped Buying at the Drugstore",
+          "Hook_Type": "Money\u2011saving + Curiosity",
+          "Duration": 5,
+          "Hook_Line": "These are all the kids\u2019 meds I stopped buying after one book.",
+          "Visual_Prompt": "Bright kitchen counter. Mom in casual clothes sweeps a line of half\u2011used children\u2019s cough syrup, ear drops, rash cream, allergy meds and crumpled receipts into frame.",
+          "VO": "These are all the kids\u2019 meds I stopped buying after one book.",
+          "Audio / script": "Light, rhythmic background track. Soft \u201cclunk\u201d as bottles are set down.",
+          "Text Overlay": "What I stopped buying at the drugstore"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "She holds up The Forgotten Home Apothecary to camera. Quick close\u2011up of the ornate apothecary cover, then opens to the apothecary\u2011style table of contents laid out as shelves.",
+          "VO": "It\u2019s called The Forgotten Home Apothecary. Inside are 250 natural remedies, organized by what\u2019s wrong\u2026coughs, earaches, rashes, tummy bugs, lice scares, all on their own \u201cshelf.\u201d",
+          "Audio / script": "Pages flipping crisply. Friendly, confident mom voice, early\u201140s.",
+          "Text Overlay": "250 remedies \u2022 Organized by ailment"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Over\u2011the\u2011shoulder. She taps \u201cRespiratory \u2192 Cough,\u201d \u201cSkin & Wounds \u2192 Rashes,\u201d \u201cDigestive \u2192 Tummy Upset.\u201d Cut in to Jello Flu Shots, Amish Ibuprofen, Herbal Parasite Flush with clear ingredients and dosage.",
+          "VO": "Instead of mystery syrups, I flip straight to remedies like Jello Flu Shots, Amish Ibuprofen for aches, and a gentle Herbal Parasite Flush for those sketchy tummy bugs.",
+          "Audio / script": "Soft tap sounds as her finger lands on each remedy.",
+          "Text Overlay": "Jello Flu Shots \u2022 Amish Ibuprofen \u2022 Parasite Flush"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "She preps a quick remedy: honey, lemon, ginger into a jar, then pours into a kids\u2019 cup. A receipt total on screen fades into a \u201cpennies per dose\u201d label next to the jar.",
+          "VO": "Everything has photos, step\u2011by\u2011step instructions, dosages by age, side effects and med interactions. And once you learn it, most of this costs pennies to make.",
+          "Audio / script": "Soft chopping, pouring sounds. Subtle cash register ding as \u201cpennies\u201d appears.",
+          "Text Overlay": "Clear, safe, cheap to make"
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "Before your next pharmacy run\u2026open this.",
+          "Visual_Prompt": "She gently pushes the pile of OTC bottles aside, sets the book in their place on the shelf, then points down toward a link area.",
+          "VO": "Now, when something pops up, this book is step one. Before you grab your keys or your card, tap below and get The Forgotten Home Apothecary into your kitchen.",
+          "Audio / script": "Music resolves with a simple, upbeat chord.",
+          "Text Overlay": "Tap below to see inside the book \u2192"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "The Mom Who Stopped Googling at Midnight",
+          "Hook_Type": "Pain point + Emotional relief",
+          "Duration": 5,
+          "Hook_Line": "I deleted \u201cchild cough won\u2019t stop\u201d from my search history.",
+          "Visual_Prompt": "Dark bedroom. Close\u2011up of a phone screen with frantic searches: \u201ckid cough won\u2019t stop,\u201d \u201cearache home remedy,\u201d \u201cis this rash serious?\u201d Fingers scrolling fast.",
+          "VO": "I deleted \u201cchild cough won\u2019t stop\u201d from my search history.",
+          "Audio / script": "Anxious tapping sounds, faint notification pings, tense music.",
+          "Text Overlay": "The mom who stopped Googling at midnight"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Quick montage of dozens of open tabs, conflicting advice, Pinterest graphics. Mom\u2019s eyes look tired and overwhelmed. Hard cut to same mom later, calmly reaching for The Forgotten Home Apothecary on her nightstand.",
+          "VO": "I was that mom opening ten tabs at midnight, reading random advice with zero dosages. Now I reach for one book instead.",
+          "Audio / script": "Tense music cuts to calm, gentle piano when the book appears.",
+          "Text Overlay": "From ten tabs \u2192 one book"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Over\u2011the\u2011shoulder shot of the apothecary\u2011style table of contents. She goes straight to \u201cRespiratory \u2192 Cough \u2013 Children.\u201d Close\u2011up of a remedy with photos, dosage table, side effects, and \u201cInteractions with Medications.\u201d",
+          "VO": "The Forgotten Home Apothecary has 250 clear remedies, laid out by ailment. Cough, fever, earache, upset stomach\u2026each has photos, age\u2011specific dosages, side effects, and med interactions.",
+          "Audio / script": "Soft page turns. Calm, clear female VO, mid\u201130s.",
+          "Text Overlay": "250 remedies \u2022 Dosage \u2022 Side effects \u2022 Interactions"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Kitchen scene. She prepares Nature\u2019s Amoxicillin juice with turmeric, ginger, lemon, honey. Pours a small dose into a kid\u2019s cup, hands it to her child curled on the couch, then notes the dosage line with her finger.",
+          "VO": "I love remedies like Nature\u2019s Amoxicillin, Jello Flu Shots, and Onion Socks for fevers. Simple ingredients, detailed instructions, no guessing at 1 A.M.",
+          "Audio / script": "ASMR\u2011style chopping and pouring, soft stirring sound.",
+          "Text Overlay": "Nature\u2019s Amoxicillin \u2022 Jello Flu Shots \u2022 Onion Socks"
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "Trade late\u2011night Googling for one trusted book.",
+          "Visual_Prompt": "Back in the bedroom. Kid asleep. Mom closes the book, sets it on the nightstand, and gently points down at a link area.",
+          "VO": "If you\u2019re tired of scrolling in the dark, keep this by your bed instead. Tap below to check if The Forgotten Home Apothecary is still in stock.",
+          "Audio / script": "Music fades with a soft, reassuring chord.",
+          "Text Overlay": "Tap to see if copies are left \u2192"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "The \u2018Before the Doctor\u2019 Playbook",
+          "Hook_Type": "Benefits + Reassurance",
+          "Duration": 5,
+          "Hook_Line": "This is what I try before dragging my kids into a waiting room.",
+          "Visual_Prompt": "Mom sitting in minivan in clinic parking lot, kids bored in back seat. She looks at the crowded urgent care entrance, then down at The Forgotten Home Apothecary on her lap.",
+          "VO": "This is what I try before dragging my kids into a waiting room.",
+          "Audio / script": "Muffled sounds of coughing from clinic doorway, light background music.",
+          "Text Overlay": "My \u201cbefore the doctor\u201d playbook"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Cut to cozy kitchen table at home. She sets The Forgotten Home Apothecary down and opens to the apothecary\u2011style contents: Respiratory, Digestive, Skin & Wounds, Immune, all arranged like shelves.",
+          "VO": "The Forgotten Home Apothecary is my step one for everyday stuff\u2026coughs, scrapes, tummy aches, mild fevers, allergy flares.",
+          "Audio / script": "Pages flipping. Calm, practical mom voice, early\u201140s.",
+          "Text Overlay": "Coughs \u2022 Scrapes \u2022 Tummy aches \u2022 Mild fevers"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Close\u2011ups as she taps \u201cRespiratory \u2192 Cough,\u201d \u201cSkin & Wounds \u2192 Minor Cuts,\u201d \u201cDigestive \u2192 Nausea \u2013 Children.\u201d Show a Jello Flu Shots page, an antiseptic herbal wash, Onion Socks instructions.",
+          "VO": "Inside are 250 remedies with photos, ingredients, exact dosages, side effects, and interaction notes. Jello Flu Shots for colds, Onion Socks for fevers, soothing rinses for sore throats.",
+          "Audio / script": "Soft tapping on pages. Background track stays gentle.",
+          "Text Overlay": "250 clear, step\u2011by\u2011step remedies"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "She mixes a quick fever sock bowl with warm water and vinegar, then a simple honey\u2011lemon cough remedy. Kids are on the couch watching cartoons, looking more comfortable.",
+          "VO": "I still call our pediatrician when it\u2019s serious. But for the endless \u201cIs this worth a visit?\u201d moments, this book keeps me calm and gives me something safe to do first.",
+          "Audio / script": "Water pouring, cloth wringing, kids giggling softly in background.",
+          "Text Overlay": "Safe first steps \u2022 Clear \u201cwhen to escalate\u201d"
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "Make this your first step, not your last resort.",
+          "Visual_Prompt": "She slides the book into a visible spot on the kitchen shelf, apothecary cover facing out, and points down toward a link area.",
+          "VO": "If you want a clear \u201cbefore the doctor\u201d playbook at home, tap below and bring The Forgotten Home Apothecary into your kitchen.",
+          "Audio / script": "Music ends on a confident, gentle note.",
+          "Text Overlay": "Tap to see inside the book \u2192"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "Kid\u2011Safe Checklist (Pass/Fail)",
+          "Hook_Type": "Safety + Fear relief",
+          "Duration": 5,
+          "Hook_Line": "Before I use any home remedy on my kids, it has to pass this checklist.",
+          "Visual_Prompt": "White background. On\u2011screen checklist appears with boxes: Dosage by age? Side effects? Med interactions? Recognizable ingredients? Mom\u2019s hand holding a marker.",
+          "VO": "Before I use any home remedy on my kids, it has to pass this checklist.",
+          "Audio / script": "Marker squeak as boxes are drawn. Calm, firm mom voice.",
+          "Text Overlay": "Kid\u2011Safe Checklist \u2705"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Quick flashes of random Pinterest/Google remedies on a phone with no dosages or warnings. Big red X stamps over them. Then cut to The Forgotten Home Apothecary opened on a remedy page.",
+          "VO": "Most things I found online failed. No dosages, no side effects, no mention of meds. Then I found The Forgotten Home Apothecary.",
+          "Audio / script": "Short \u201cerror\u201d buzz on red X, then softer music kicks in with the book.",
+          "Text Overlay": "Random DIY? \u274c"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Over\u2011the\u2011shoulder: she taps \u201cJello Flu Shots\u201d and \u201cOnion Socks\u201d in the apothecary\u2011style table of contents. Close\u2011up of a remedy page showing ingredients, step\u2011by\u2011step photos, dosage chart, \u201cSide Effects & Allergies,\u201d and \u201cInteractions with Medications.\u201d",
+          "VO": "This 320\u2011page book has 250 remedies, each with ingredients, step\u2011by\u2011step photos, dosages by age, side effects, and a whole chapter on interactions with common meds.",
+          "Audio / script": "Pages turning, soft tap as she checks each box on paper.",
+          "Text Overlay": "Ingredients \u2022 Photos \u2022 Dosage \u2022 Side effects \u2022 Interactions"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Split screen. Left: she checks each Kid\u2011Safe box next to a remedy page. Right: she calmly mixes Nature\u2019s Amoxicillin juice and prepares Onion Socks while kids color at the table.",
+          "VO": "Now when my kids get sick, I\u2019m not guessing. I flip to coughs, fevers, rashes, parasites, and actually see what\u2019s safe alongside their prescriptions.",
+          "Audio / script": "Quiet kitchen ambience, kids murmuring, spoon stirring sounds.",
+          "Text Overlay": "Coughs \u2022 Fevers \u2022 Rashes \u2022 Parasites"
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "If safety is your first filter, start here.",
+          "Visual_Prompt": "She places the Kid\u2011Safe checklist inside the book as a bookmark, closes it on the apothecary cover, and points down.",
+          "VO": "If you\u2019re the gatekeeper for your kids\u2019 health, this book has your back. Tap below to get The Forgotten Home Apothecary while it\u2019s still available.",
+          "Audio / script": "Music fades out with a soft, reassuring tone.",
+          "Text Overlay": "Tap to check availability \u2192"
+        }
+      ]
+    },
+    {
+      "hooks": [
+        {
+          "Concept": "The Mom Conspiracy: Why Didn\u2019t Anyone Tell Us?",
+          "Hook_Type": "Curiosity + Mild Conspiracy",
+          "Duration": 5,
+          "Hook_Line": "We got classes on algebra\u2026but nothing on breaking a kid\u2019s fever at 2 A.M.",
+          "Visual_Prompt": "Montage: teen in a classroom bored with math; smash cut to her now as a mom at night, worried, feeling her child\u2019s hot forehead.",
+          "VO": "We got classes on algebra\u2026but nothing on breaking a kid\u2019s fever at 2 A.M.",
+          "Audio / script": "Playful but slightly edgy music. Quick whoosh between shots.",
+          "Text Overlay": "Why didn\u2019t anyone teach us this?"
+        }
+      ],
+      "script_scenes": [
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Kitchen counter with onions, vinegar, honey, garlic, oats. She places The Forgotten Home Apothecary in the middle. Opens to the apothecary\u2011style contents with shelves labeled Respiratory, Immune, Skin & Wounds.",
+          "VO": "No one explained Onion Socks, simple cough syrups, or calming bedtime teas that you can make from what\u2019s already in your kitchen.",
+          "Audio / script": "Soft clinking of jars, pages flipping. Curious, inviting tone.",
+          "Text Overlay": "Remedies hiding in plain sight"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "Close\u2011ups of remedy pages: \u201cOnion Socks,\u201d \u201cJello Flu Shots,\u201d \u201cNature\u2019s Amoxicillin,\u201d each with full\u2011color photos, ingredient lists, dosage, and safety notes. Finger traces the shelf images.",
+          "VO": "The Forgotten Home Apothecary holds 250 of these \u201cforgotten\u201d remedies. Each one has photos, exact dosages, side effects, and med interaction notes so you can use them responsibly with kids.",
+          "Audio / script": "Markers circling key words on the page, subtle highlight sound.",
+          "Text Overlay": "250 forgotten home remedies"
+        },
+        {
+          "Duration": 8,
+          "Visual_Prompt": "She preps Onion Socks for a feverish child and pours Jello Flu Shots into a fun silicone mold. Child smiles sleepily as she tucks them in with cooled socks on.",
+          "VO": "It almost feels like this knowledge skipped our generation. But it doesn\u2019t have to. You can keep this on your shelf and stop feeling helpless every time a bug hits.",
+          "Audio / script": "Light kitchen ambience, mold tray \u201cplop,\u201d child\u2019s soft sigh of relief.",
+          "Text Overlay": "From helpless to prepared"
+        },
+        {
+          "Duration": 6,
+          "CTA_Line": "Opt out of total pharmacy dependence.",
+          "Visual_Prompt": "She slides the book between her cookbooks, apothecary cover facing out, then points down toward a link area.",
+          "VO": "If you want real, printed how\u2011to\u2019s instead of late\u2011night guesswork, tap below and bring The Forgotten Home Apothecary into your home.",
+          "Audio / script": "Music ends on a clear, hopeful chord.",
+          "Text Overlay": "Tap to see if there\u2019s a copy for you \u2192"
+        }
+      ]
+    }
+  ],
+  "script_other": {
+    "hooks": [
+      {
+        "Concept": "Revealing hidden remedies in an ordinary kitchen cabinet",
+        "Hook_Type": "Pattern interrupt + curiosity",
+        "Duration": 5,
+        "Hook_Line": "This is a kitchen cabinet. You think it only holds spices? Think again.",
+        "Visual_Prompt": "Close-up of a hand opening an old wooden kitchen cabinet. Inside are familiar spice jars and pantry items. Gentle natural light. No face shown yet. On-screen text label top left: 'The Forgotten Home Apothecary' with small subtitle '250 Natural Remedies'.",
+        "VO": "This is a kitchen cabinet. You think it only holds spices? Think again.",
+        "Audio / script": "Soft, minimal acoustic music starts. Ambient kitchen sounds very low.",
+        "Text Overlay": "This is a kitchen cabinet.\nThink it only holds spices?\nThink again."
+      }
+    ],
+    "script_scenes": [
+      {
+        "Duration": 8,
+        "Visual_Prompt": "Cut to Dr. Nicole Apelian seated at a wooden kitchen table. Warm, cozy lighting. Shelves behind her with labeled glass jars of herbs and the book 'The Forgotten Home Apothecary' standing upright. She\u2019s a woman in her 50s, casual linen shirt, relaxed posture, friendly but confident tone, hands loosely folded, occasionally gesturing toward camera.",
+        "VO": "I\u2019m Dr. Nicole Apelian, herbalist and author of The Forgotten Home Apothecary, and what I\u2019ve learned over 30 years in the field shocked me.",
+        "Audio / script": "Music continues softly, no other sound effects.",
+        "Text Overlay": "Nicole Apelian, Ph.D.\nHerbalist & Author"
+      },
+      {
+        "Duration": 10,
+        "Visual_Prompt": "Cut to overhead shot of a kitchen counter. Common items laid out: ginger root, honey, olive oil, oats, dried chamomile, a measuring spoon. Nicole\u2019s hands move into frame, gently grouping items into small clusters labeled with subtle on-screen tags near each group (e.g., 'digestion', 'immune', 'joints', 'skin').",
+        "VO": "Hidden in everyday herbs and pantry staples are remedies that can help calm nerves, soothe digestion, support immunity, ease joint stiffness, and even care for your skin.",
+        "Audio / script": "Soft page-turn sound as labels appear; music steady.",
+        "Text Overlay": "Everyday remedies hiding in plain sight"
+      },
+      {
+        "Duration": 10,
+        "Visual_Prompt": "Medium shot of Nicole at the counter, calmly preparing a simple remedy: pouring hot water over herbs in a jar, adding honey, placing a label on the jar. The open book lies beside her, showing a full-color remedy page with photos and step-by-step instructions. Camera slowly dollies in.",
+        "VO": "In this short video, I\u2019ll show you how to turn simple ingredients you already own into safe, step-by-step remedies for your whole family\u2014without prescriptions, gatekeepers, or expensive products.",
+        "Audio / script": "Quiet clink of glass jar and spoon under the music.",
+        "Text Overlay": "Step-by-step remedies\nNo prescriptions \u2022 No gatekeepers"
+      },
+      {
+        "Duration": 7,
+        "CTA_Line": "Click to see how to build your own home apothecary.",
+        "Visual_Prompt": "Close-up of the apothecary-style bookshelf layout of the book, pages turning to reveal organized sections (Digestive, Immune, Skin, etc.). Then a final shot: the closed book on the table next to a small tray of finished remedies. Nicole\u2019s hand rests lightly on the cover and gestures toward it.",
+        "VO": "And the best part? Most of them cost just pennies to make. Click to see how to build your own home apothecary.",
+        "Audio / script": "Music swells slightly, then holds. Soft 'click' sound timed with on-screen CTA button appearing.",
+        "Text Overlay": "Most remedies cost pennies.\nBuild your own home apothecary.\n[ Watch Now ]"
+      }
+    ]
+  },
+  "script_news": {
+    "hooks": [
+      {
+        "Concept": "The 11-second herb tea that may calm 'inflammaging'",
+        "Hook_Type": "Research-based curiosity hook",
+        "Duration": 4,
+        "Hook_Line": "Let me show you the 11-second herb tea that may calm 'inflammaging.'",
+        "Visual_Prompt": "Close-up of a woman in her early 60s in a cozy kitchen quickly pouring hot water over herbs in a clear mug.",
+        "VO": "Let me show you the 11-second herb tea that may calm 'inflammaging.'",
+        "Audio / script": "Soft acoustic background music starts.",
+        "Text Overlay": "The 11-second herb tea for 'inflammaging'?"
+      }
+    ],
+    "script_scenes": [
+      {
+        "Duration": 4,
+        "Visual_Prompt": "Same woman places a jar labeled 'Turmeric & Ginger Blend' on the counter, camera slowly zooms in.",
+        "VO": "Recent research links quiet, chronic inflammation to faster brain aging, stiffer joints, and feeling older than you are.",
+        "Audio / script": "Music continues softly.",
+        "Text Overlay": "New research: chronic inflammation & brain aging"
+      },
+      {
+        "Duration": 5,
+        "Visual_Prompt": "She opens a wooden apothecary-style cabinet with small labeled jars of herbs and spices; warm kitchen lighting.",
+        "VO": "Many herbalists have long used simple kitchen herbs to gently support a calmer, more comfortable body.",
+        "Audio / script": "Light clink of jars as she slides one out.",
+        "Text Overlay": "Simple herbs. Big daily support."
+      },
+      {
+        "Duration": 5,
+        "Visual_Prompt": "Cut to a top-down shot of the open book 'The Forgotten Home Apothecary' showing a colorful spread of anti-inflammatory teas and tonics.",
+        "VO": "In The Forgotten Home Apothecary, Dr. Nicole Apelian shows how to turn everyday herbs and spices into soothing teas, tonics, and spice mixes you can make in minutes.",
+        "Audio / script": "Pages softly turning sound.",
+        "Text Overlay": "Step-by-step remedies you can mix at home"
+      },
+      {
+        "Duration": 6,
+        "CTA_Line": "Tap to peek inside this home apothecary.",
+        "Visual_Prompt": "Close-up of the woman smiling softly, holding the steaming mug, book open on the counter with a subtle clickable overlay.",
+        "VO": "If you\u2019ve ever wondered what to actually do in your own kitchen about 'inflammaging,' tap to peek inside this home apothecary.",
+        "Audio / script": "Music gently swells and then fades.",
+        "Text Overlay": "See how women are building their own home apothecary \u2192"
+      }
+    ]
+  }
+}
